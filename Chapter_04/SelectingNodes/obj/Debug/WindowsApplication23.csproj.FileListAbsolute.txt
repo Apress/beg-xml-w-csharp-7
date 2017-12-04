@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 04\WindowsApplication23\obj\Debug\WindowsApplication23.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication23\obj\Debug\WindowsApplication23.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication23\bin\Debug\WindowsApplication23.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication23\bin\Debug\WindowsApplication23.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication23\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\WindowsApplication23\obj\Debug\WindowsApplication23.Form1.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication23\obj\Debug\WindowsApplication23.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication23\obj\Debug\WindowsApplication23.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.exe
+C:\Bipin\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.pdb
+C:\Bipin\Code\Chapter 04\SelectingNodes\bin\Debug\WindowsApplication23.exe
+C:\Bipin\Code\Chapter 04\SelectingNodes\bin\Debug\WindowsApplication23.pdb
+C:\Bipin\Code\Chapter 04\SelectingNodes\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.Form1.resources
+C:\Bipin\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.pdb

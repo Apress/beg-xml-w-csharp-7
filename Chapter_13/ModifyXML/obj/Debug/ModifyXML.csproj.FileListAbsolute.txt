@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\ModifyXML\bin\Debug\ModifyXML.exe
+C:\Bipin\Code\Chapter 13\ModifyXML\bin\Debug\ModifyXML.pdb
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.Form1.resources
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.exe
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\bin\Debug\ModifyXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\bin\Debug\ModifyXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\ModifyXML\bin\Debug\ModifyXML.exe
+Y:\Chapter_13\ModifyXML\bin\Debug\ModifyXML.pdb
+Y:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.Form1.resources
+Y:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.Properties.Resources.resources
+Y:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.exe
+Y:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.pdb
+Y:\Chapter_13\ModifyXML\bin\Debug\ModifyXML.exe.config
+H:\Chapter_13\ModifyXML\bin\Debug\ModifyXML.exe.config
+H:\Chapter_13\ModifyXML\bin\Debug\ModifyXML.exe
+H:\Chapter_13\ModifyXML\bin\Debug\ModifyXML.pdb
+H:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.Form1.resources
+H:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.Properties.Resources.resources
+H:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.csproj.GenerateResource.Cache
+H:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.exe
+H:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.pdb
+H:\Chapter_13\ModifyXML\obj\Debug\ModifyXML.csproj.CoreCompileInputs.cache

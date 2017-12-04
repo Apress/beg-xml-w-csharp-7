@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmployeeWebServiceClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmployeeWebServiceClient_localhost_EmployeeManager" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49373/Services/EmployeeManager.asmx</Value>
+    </Setting>
+    <Setting Name="EmployeeWebServiceClient_localhost1_EmployeeManagerWithSOAPHeader" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49373/Services/EmployeeManagerWithSOAPHeader.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

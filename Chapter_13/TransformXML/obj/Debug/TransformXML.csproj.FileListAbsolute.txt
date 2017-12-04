@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.Form1.resources
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\TransformXML\bin\Debug\TransformXML.exe
+C:\Bipin\Code\Chapter 13\TransformXML\bin\Debug\TransformXML.pdb
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.exe
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\bin\Debug\TransformXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\bin\Debug\TransformXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\TransformXML\bin\Debug\TransformXML.exe
+Y:\Chapter_13\TransformXML\bin\Debug\TransformXML.pdb
+Y:\Chapter_13\TransformXML\obj\Debug\TransformXML.Form1.resources
+Y:\Chapter_13\TransformXML\obj\Debug\TransformXML.Properties.Resources.resources
+Y:\Chapter_13\TransformXML\obj\Debug\TransformXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\TransformXML\obj\Debug\TransformXML.exe
+Y:\Chapter_13\TransformXML\obj\Debug\TransformXML.pdb
+Y:\Chapter_13\TransformXML\bin\Debug\TransformXML.exe.config
+H:\Chapter_13\TransformXML\bin\Debug\TransformXML.exe.config
+H:\Chapter_13\TransformXML\bin\Debug\TransformXML.exe
+H:\Chapter_13\TransformXML\bin\Debug\TransformXML.pdb
+H:\Chapter_13\TransformXML\obj\Debug\TransformXML.Form1.resources
+H:\Chapter_13\TransformXML\obj\Debug\TransformXML.Properties.Resources.resources
+H:\Chapter_13\TransformXML\obj\Debug\TransformXML.csproj.GenerateResource.Cache
+H:\Chapter_13\TransformXML\obj\Debug\TransformXML.exe
+H:\Chapter_13\TransformXML\obj\Debug\TransformXML.pdb
+H:\Chapter_13\TransformXML\obj\Debug\TransformXML.csproj.CoreCompileInputs.cache

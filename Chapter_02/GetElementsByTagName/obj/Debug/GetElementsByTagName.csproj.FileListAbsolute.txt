@@ -1,0 +1,25 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\bin\Debug\WindowsApplication3.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csprojResolveAssemblyReference.cache
+H:\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe.config
+H:\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe
+H:\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.pdb
+H:\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.Form1.resources
+H:\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.Properties.Resources.resources
+H:\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.GenerateResource.Cache
+H:\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
+H:\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb
+H:\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.CoreCompileInputs.cache

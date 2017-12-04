@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 03\WindowsApplication14\obj\Debug\WindowsApplication13.exe
+C:\Bipin\Code\Chapter 03\WindowsApplication14\obj\Debug\WindowsApplication13.pdb
+C:\Bipin\Code\Chapter 03\WindowsApplication14\bin\Debug\WindowsApplication13.exe
+C:\Bipin\Code\Chapter 03\WindowsApplication14\bin\Debug\WindowsApplication13.pdb
+C:\Bipin\Code\Chapter 03\WindowsApplication14\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 03\WindowsApplication14\obj\Debug\WindowsApplication13.Form1.resources
+C:\Bipin\Code\Chapter 03\WindowsApplication14\obj\Debug\WindowsApplication13.Properties.Resources.resources
+C:\Bipin\Code\Chapter 03\WindowsApplication14\obj\Debug\WindowsApplication14.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication13.exe
+C:\Bipin\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication13.pdb
+C:\Bipin\Code\Chapter 03\FormattingDocument\bin\Debug\WindowsApplication13.exe
+C:\Bipin\Code\Chapter 03\FormattingDocument\bin\Debug\WindowsApplication13.pdb
+C:\Bipin\Code\Chapter 03\FormattingDocument\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication13.Form1.resources
+C:\Bipin\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication13.Properties.Resources.resources
+C:\Bipin\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication14.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\FormattingDocument\obj\Debug\WindowsApplication13.pdb

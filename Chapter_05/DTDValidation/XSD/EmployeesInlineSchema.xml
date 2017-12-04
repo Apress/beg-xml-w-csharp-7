@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<employees>
+  <xs:schema id="employees" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="">
+    <xs:element name="employees">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="employee" type="EmployeeType" minOccurs="0" maxOccurs="unbounded" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+    <xs:complexType name="EmployeeType">
+      <xs:all>
+        <xs:element name="firstname" type="NameSimpleType" />
+        <xs:element name="notes" type="NotesSimpleType" />
+        <xs:element name="lastname" type="NameSimpleType" />
+        <xs:element name="homephone" type="PhoneSimpleType" />
+      </xs:all>
+      <xs:attribute name="employeeid" type="xs:int" use="required" />
+    </xs:complexType>
+    <xs:simpleType name="NotesSimpleType">
+      <xs:restriction base="xs:string">
+        <xs:maxLength value="500" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="NameSimpleType">
+      <xs:restriction base="xs:string">
+        <xs:minLength value="3" />
+        <xs:maxLength value="255" />
+      </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="PhoneSimpleType">
+      <xs:restriction base="xs:string">
+        <xs:maxLength value="20" />
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:schema>
+
+  <employee employeeid="1">
+    <firstname>Nancy</firstname>
+    <lastname>Davolio</lastname>
+    <homephone>(206) 555-9857</homephone>
+    <notes>
+      <![CDATA[Education includes a BA in psychology from Colorado State University in 1970. She also completed "The Art of the Cold Call." Nancy is a member of Toastmasters International.]]>
+  </notes>
+  </employee>
+  <employee employeeid="2">
+    <firstname>Andrew</firstname>
+    <lastname>Fuller</lastname>
+    <homephone>(206) 555-9482</homephone>
+    <notes>
+      <![CDATA[Andrew received his BTS commercial in 1974 and a Ph.D. in international marketing from the University of Dallas in 1981.  He is fluent in French and Italian and reads German. He joined the company as a sales representative, was promoted to sales manager in January 1992 and to vice president of sales in March 1993. Andrew is a member of the Sales Management Roundtable, the Seattle Chamber of Commerce, and the Pacific Rim Importers Association.]]>
+    </notes>
+  </employee>
+  <employee employeeid="3">
+    <firstname>Janet</firstname>
+    <lastname>Leverling</lastname>
+    <homephone>(206) 555-3412</homephone>
+    <notes>
+      <![CDATA[Janet has a BS degree in chemistry from Boston College (1984). She has also completed a certificate program in food retailing management.  Janet was hired as a sales associate in 1991 and promoted to sales representative in February 1992.]]>
+    </notes>
+  </employee>
+</employees>

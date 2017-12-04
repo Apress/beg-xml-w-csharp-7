@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 02\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 02\NavigatingDocument\obj\Debug\WindowsApplication2.exe
+C:\Bipin\Code\Chapter 02\NavigatingDocument\obj\Debug\WindowsApplication2.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\NavigatingDocument\obj\Debug\WindowsApplication2.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\NavigatingDocument\obj\Debug\WindowsApplication2.pdb

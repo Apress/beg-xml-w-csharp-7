@@ -1,0 +1,20 @@
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\obj\Debug\WindowsApplication31.exe
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\obj\Debug\WindowsApplication31.pdb
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\bin\Debug\WindowsApplication31.exe
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\bin\Debug\WindowsApplication31.pdb
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\bin\Debug\EmployeeStyles.dll
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\obj\Debug\WindowsApplication31.Form1.resources
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\obj\Debug\WindowsApplication31.Properties.Resources.resources
+C:\Bipin\Code\Chapter 06\WindowsApplication31a\obj\Debug\WindowsApplication31a.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.exe
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.pdb
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\bin\Debug\WindowsApplication31.exe
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\bin\Debug\WindowsApplication31.pdb
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\bin\Debug\EmployeeStyles.dll
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Form1.resources
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Properties.Resources.resources
+C:\Bipin\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31a.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.pdb

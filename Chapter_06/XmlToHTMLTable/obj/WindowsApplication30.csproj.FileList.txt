@@ -1,0 +1,7 @@
+bin\Debug\WindowsApplication30.exe
+bin\Debug\WindowsApplication30.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication30.Properties.Resources.resources
+obj\Debug\WindowsApplication30.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication30.exe
+obj\Debug\WindowsApplication30.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<node text="Home" url="default.aspx">
+  <node text="Products" url="products.aspx">
+    <node text="Product 1" url="product1.aspx"></node>
+    <node text="Product 2" url="product2.aspx"></node>
+    <node text="Product 3" url="product3.aspx"></node>
+  </node>
+  <node text="Services" url="services.aspx">
+    <node text="Service 1" url="service1.aspx"></node>
+    <node text="Service 2" url="service2.aspx"></node>
+    <node text="Service 3" url="service3.aspx"></node>
+  </node>
+  <node text="About Us" url="about.aspx"></node>
+  <node text="Contact Us" url="contact.aspx"></node>
+</node>
+

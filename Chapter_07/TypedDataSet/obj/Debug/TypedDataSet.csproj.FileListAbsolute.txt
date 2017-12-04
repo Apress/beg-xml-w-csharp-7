@@ -1,0 +1,25 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\bin\Debug\WindowsApplication36.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\bin\Debug\WindowsApplication36.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\TypedDataSet.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\TypedDataSet.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\bin\Debug\WindowsApplication36.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\bin\Debug\WindowsApplication36.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\bin\Debug\WindowsApplication36.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\TypedDataSet\obj\Debug\TypedDataSet.csproj.GenerateResource.Cache
+H:\Chapter_07\TypedDataSet\bin\Debug\WindowsApplication36.exe.config
+H:\Chapter_07\TypedDataSet\bin\Debug\WindowsApplication36.exe
+H:\Chapter_07\TypedDataSet\bin\Debug\WindowsApplication36.pdb
+H:\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.Form1.resources
+H:\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.Properties.Resources.resources
+H:\Chapter_07\TypedDataSet\obj\Debug\TypedDataSet.csproj.GenerateResource.Cache
+H:\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.exe
+H:\Chapter_07\TypedDataSet\obj\Debug\WindowsApplication36.pdb
+H:\Chapter_07\TypedDataSet\obj\Debug\TypedDataSet.csproj.CoreCompileInputs.cache

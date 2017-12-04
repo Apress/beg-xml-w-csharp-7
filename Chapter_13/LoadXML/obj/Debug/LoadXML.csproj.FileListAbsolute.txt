@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\LoadXML\bin\Debug\LoadXML.exe
+C:\Bipin\Code\Chapter 13\LoadXML\bin\Debug\LoadXML.pdb
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.Form1.resources
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.exe
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\bin\Debug\LoadXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\bin\Debug\LoadXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\LoadXML\bin\Debug\LoadXML.exe
+Y:\Chapter_13\LoadXML\bin\Debug\LoadXML.pdb
+Y:\Chapter_13\LoadXML\obj\Debug\LoadXML.Form1.resources
+Y:\Chapter_13\LoadXML\obj\Debug\LoadXML.Properties.Resources.resources
+Y:\Chapter_13\LoadXML\obj\Debug\LoadXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\LoadXML\obj\Debug\LoadXML.exe
+Y:\Chapter_13\LoadXML\obj\Debug\LoadXML.pdb
+Y:\Chapter_13\LoadXML\bin\Debug\LoadXML.exe.config
+H:\Chapter_13\LoadXML\bin\Debug\LoadXML.exe.config
+H:\Chapter_13\LoadXML\bin\Debug\LoadXML.exe
+H:\Chapter_13\LoadXML\bin\Debug\LoadXML.pdb
+H:\Chapter_13\LoadXML\obj\Debug\LoadXML.Form1.resources
+H:\Chapter_13\LoadXML\obj\Debug\LoadXML.Properties.Resources.resources
+H:\Chapter_13\LoadXML\obj\Debug\LoadXML.csproj.GenerateResource.Cache
+H:\Chapter_13\LoadXML\obj\Debug\LoadXML.exe
+H:\Chapter_13\LoadXML\obj\Debug\LoadXML.pdb
+H:\Chapter_13\LoadXML\obj\Debug\LoadXML.csproj.CoreCompileInputs.cache

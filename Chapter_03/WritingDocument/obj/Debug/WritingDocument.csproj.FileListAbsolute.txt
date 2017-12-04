@@ -1,0 +1,34 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\bin\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\bin\Debug\WindowsApplication13.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\obj\Debug\WindowsApplication13.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\obj\Debug\WindowsApplication13.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\obj\Debug\WritingDocument.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\obj\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\WritingDocument\obj\Debug\WindowsApplication13.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\obj\Debug\WritingDocument.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\WritingDocument\obj\Debug\WritingDocument.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.exe.config
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.pdb
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\obj\Debug\WritingDocument.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.Form1.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\obj\Debug\WritingDocument.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.pdb
+H:\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.exe.config
+H:\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.exe
+H:\Chapter_03\WritingDocument\bin\Debug\WindowsApplication13.pdb
+H:\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.Form1.resources
+H:\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.Properties.Resources.resources
+H:\Chapter_03\WritingDocument\obj\Debug\WritingDocument.csproj.GenerateResource.Cache
+H:\Chapter_03\WritingDocument\obj\Debug\WritingDocument.csproj.CoreCompileInputs.cache
+H:\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.exe
+H:\Chapter_03\WritingDocument\obj\Debug\WindowsApplication13.pdb

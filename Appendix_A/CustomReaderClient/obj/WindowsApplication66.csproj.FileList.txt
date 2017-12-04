@@ -1,0 +1,10 @@
+bin\Debug\WindowsApplication66.exe
+bin\Debug\WindowsApplication66.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication66.Form1.resources
+obj\Debug\WindowsApplication66.Properties.Resources.resources
+obj\Debug\WindowsApplication66.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication66.exe
+obj\Debug\WindowsApplication66.pdb
+bin\Debug\CustomReaderWriter.dll
+bin\Debug\CustomReaderWriter.pdb

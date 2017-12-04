@@ -1,0 +1,10 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderWriter\bin\Debug\CustomReaderWriter.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderWriter\bin\Debug\CustomReaderWriter.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderWriter\obj\Debug\CustomReaderWriter.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderWriter\obj\Debug\CustomReaderWriter.pdb
+H:\Appendix_A\CustomReaderWriter\bin\Debug\CustomReaderWriter.dll
+H:\Appendix_A\CustomReaderWriter\bin\Debug\CustomReaderWriter.pdb
+H:\Appendix_A\CustomReaderWriter\obj\Debug\CustomReaderWriter.dll
+H:\Appendix_A\CustomReaderWriter\obj\Debug\CustomReaderWriter.pdb
+H:\Appendix_A\CustomReaderWriter\obj\Debug\CustomReaderWriter.csprojResolveAssemblyReference.cache
+H:\Appendix_A\CustomReaderWriter\obj\Debug\CustomReaderWriter.csproj.CoreCompileInputs.cache

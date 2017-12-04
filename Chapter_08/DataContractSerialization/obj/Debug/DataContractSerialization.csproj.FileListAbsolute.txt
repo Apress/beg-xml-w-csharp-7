@@ -1,0 +1,10 @@
+H:\Chapter_08\DataContractSerialization\bin\Debug\WindowsApplication45.exe.config
+H:\Chapter_08\DataContractSerialization\bin\Debug\WindowsApplication45.exe
+H:\Chapter_08\DataContractSerialization\bin\Debug\WindowsApplication45.pdb
+H:\Chapter_08\DataContractSerialization\obj\Debug\DataContractSerialization.csprojResolveAssemblyReference.cache
+H:\Chapter_08\DataContractSerialization\obj\Debug\WindowsApplication45.Form1.resources
+H:\Chapter_08\DataContractSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+H:\Chapter_08\DataContractSerialization\obj\Debug\DataContractSerialization.csproj.GenerateResource.Cache
+H:\Chapter_08\DataContractSerialization\obj\Debug\WindowsApplication45.exe
+H:\Chapter_08\DataContractSerialization\obj\Debug\WindowsApplication45.pdb
+H:\Chapter_08\DataContractSerialization\obj\Debug\DataContractSerialization.csproj.CoreCompileInputs.cache

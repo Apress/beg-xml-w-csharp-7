@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menus>
+  <topmenu text="File">
+    <submenu>New</submenu>
+    <submenu>Open</submenu>
+    <submenu>Close</submenu>
+  </topmenu>
+  <topmenu text="Edit">
+    <submenu>Cut</submenu>
+    <submenu>Copy</submenu>
+    <submenu>Paste</submenu>
+  </topmenu>
+  <topmenu text="Help">
+    <submenu>Help</submenu>
+    <submenu>Search</submenu>
+    <submenu>About</submenu>
+  </topmenu>
+</menus>

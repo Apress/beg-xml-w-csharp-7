@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 04\WindowsApplication21\obj\Debug\WindowsApplication21.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication21\obj\Debug\WindowsApplication21.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication21\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\WindowsApplication21\obj\Debug\WindowsApplication21.Form1.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication21\obj\Debug\WindowsApplication21.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication21\obj\Debug\WindowsApplication21.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.exe
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.pdb
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Form1.resources
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.exe
+C:\Bipin\Code\Chapter 04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.pdb

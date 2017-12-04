@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 08\WindowsApplication50\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication50\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication50\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication50\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication50\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\WindowsApplication50\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication50\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication50\obj\Debug\WindowsApplication50.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\SOAPSerialization\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\SOAPSerialization\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\SOAPSerialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication50.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.pdb

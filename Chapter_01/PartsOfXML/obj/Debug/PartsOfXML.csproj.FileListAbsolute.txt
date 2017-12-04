@@ -1,0 +1,18 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.XML
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\obj\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\obj\Debug\Parts of XML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.XML
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.pdb
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.XML
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.pdb
+Y:\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.exe
+Y:\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.pdb

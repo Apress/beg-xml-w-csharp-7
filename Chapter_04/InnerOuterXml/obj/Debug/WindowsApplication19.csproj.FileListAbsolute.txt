@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 04\WindowsApplication19\obj\Debug\WindowsApplication19.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication19\obj\Debug\WindowsApplication19.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication19\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\WindowsApplication19\obj\Debug\WindowsApplication19.Form1.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication19\obj\Debug\WindowsApplication19.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication19\obj\Debug\WindowsApplication19.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\InnerOuterXml\obj\Debug\WindowsApplication19.exe
+C:\Bipin\Code\Chapter 04\InnerOuterXml\obj\Debug\WindowsApplication19.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\InnerOuterXml\obj\Debug\WindowsApplication19.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\InnerOuterXml\obj\Debug\WindowsApplication19.pdb

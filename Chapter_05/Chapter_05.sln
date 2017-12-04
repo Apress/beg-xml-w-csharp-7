@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaFromAssembly", "SchemaFromAssembly\SchemaFromAssembly.csproj", "{D1D34722-1715-4B7A-AA3B-79EE93BA8D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOM", "SOM\SOM.csproj", "{4812DB52-7CE5-4117-B9FA-13699C3EC40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDocumentValidation", "XmlDocumentValidation\XmlDocumentValidation.csproj", "{1322F62F-697B-4F26-B527-97436FAF94D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReaderValidation", "XmlReaderValidation\XmlReaderValidation.csproj", "{EE3A12A3-744A-4FDA-8CB9-D39C608F2ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReaderValidationViaCode", "XmlReaderValidationViaCode\XmlReaderValidationViaCode.csproj", "{2AEB5207-BCA4-4CDB-ABEA-3B6D272B498E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTDValidation", "DTDValidation\DTDValidation.csproj", "{FFF735E9-3DA7-4B6E-B6E8-626CE95A27E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D34722-1715-4B7A-AA3B-79EE93BA8D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D34722-1715-4B7A-AA3B-79EE93BA8D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D34722-1715-4B7A-AA3B-79EE93BA8D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D34722-1715-4B7A-AA3B-79EE93BA8D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4812DB52-7CE5-4117-B9FA-13699C3EC40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4812DB52-7CE5-4117-B9FA-13699C3EC40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4812DB52-7CE5-4117-B9FA-13699C3EC40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4812DB52-7CE5-4117-B9FA-13699C3EC40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1322F62F-697B-4F26-B527-97436FAF94D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1322F62F-697B-4F26-B527-97436FAF94D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1322F62F-697B-4F26-B527-97436FAF94D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1322F62F-697B-4F26-B527-97436FAF94D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3A12A3-744A-4FDA-8CB9-D39C608F2ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3A12A3-744A-4FDA-8CB9-D39C608F2ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3A12A3-744A-4FDA-8CB9-D39C608F2ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3A12A3-744A-4FDA-8CB9-D39C608F2ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEB5207-BCA4-4CDB-ABEA-3B6D272B498E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEB5207-BCA4-4CDB-ABEA-3B6D272B498E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEB5207-BCA4-4CDB-ABEA-3B6D272B498E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEB5207-BCA4-4CDB-ABEA-3B6D272B498E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF735E9-3DA7-4B6E-B6E8-626CE95A27E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF735E9-3DA7-4B6E-B6E8-626CE95A27E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF735E9-3DA7-4B6E-B6E8-626CE95A27E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF735E9-3DA7-4B6E-B6E8-626CE95A27E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A9A165-BBC5-4A61-91B0-172D5F4EB35C}
+	EndGlobalSection
+EndGlobal

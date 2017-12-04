@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 02\WindowsApplication6\obj\Debug\WindowsApplication5.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication6\obj\Debug\WindowsApplication5.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication6\bin\Debug\WindowsApplication5.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication6\bin\Debug\WindowsApplication5.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\WindowsApplication6\obj\Debug\WindowsApplication5.Form1.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication6\obj\Debug\WindowsApplication5.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication6\obj\Debug\WindowsApplication6.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication5.exe
+C:\Bipin\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication5.pdb
+C:\Bipin\Code\Chapter 02\SelectSingleNode\bin\Debug\WindowsApplication5.exe
+C:\Bipin\Code\Chapter 02\SelectSingleNode\bin\Debug\WindowsApplication5.pdb
+C:\Bipin\Code\Chapter 02\SelectSingleNode\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication5.Form1.resources
+C:\Bipin\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication5.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication6.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication5.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectSingleNode\obj\Debug\WindowsApplication5.pdb

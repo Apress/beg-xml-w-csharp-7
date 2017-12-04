@@ -1,0 +1,56 @@
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.exe
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.pdb
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\bin\Debug\WindowsApplication00.exe
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\bin\Debug\WindowsApplication00.pdb
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\HelloWindowsWorld.Form1.resources
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.Properties.Resources.resources
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\HelloWindowsWorld.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\WindowsApplication00.exe
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\WindowsApplication00.pdb
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\bin\Debug\WindowsApplication00.exe
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\bin\Debug\WindowsApplication00.pdb
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\HelloWindowsWorld.Form1.resources
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\WindowsApplication00.Properties.Resources.resources
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\HelloWindowsWorld.csproj.GenerateResource.Cache
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\WindowsApplication00.exe
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 01\HelloWindowdsWorld\WindowsApplication00\obj\Debug\WindowsApplication00.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csproj.GenerateResource.Cache
+Y:\Chapter_01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.exe.config
+Y:\Chapter_01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.exe
+Y:\Chapter_01\HelloWindowdsWorld\bin\Debug\WindowsApplication00.pdb
+Y:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csprojResolveAssemblyReference.cache
+Y:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.Form1.resources
+Y:\Chapter_01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.Properties.Resources.resources
+Y:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csproj.GenerateResource.Cache
+Y:\Chapter_01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.exe
+Y:\Chapter_01\HelloWindowdsWorld\obj\Debug\WindowsApplication00.pdb
+H:\Chapter_01\HelloWindowdsWorld\bin\Debug\HelloWindowsWorld.exe.config
+H:\Chapter_01\HelloWindowdsWorld\bin\Debug\HelloWindowsWorld.exe
+H:\Chapter_01\HelloWindowdsWorld\bin\Debug\HelloWindowsWorld.pdb
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csprojResolveAssemblyReference.cache
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.Form1.resources
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.Properties.Resources.resources
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csproj.GenerateResource.Cache
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.csproj.CoreCompileInputs.cache
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.exe
+H:\Chapter_01\HelloWindowdsWorld\obj\Debug\HelloWindowsWorld.pdb
+H:\Chapter_01\HelloWindowdsWorld\bin\Debug\HelloWorldLib.dll
+H:\Chapter_01\HelloWindowdsWorld\bin\Debug\HelloWorldLib.pdb

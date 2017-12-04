@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.Form1.resources
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\FindElements\bin\Debug\FindElements.exe
+C:\Bipin\Code\Chapter 13\FindElements\bin\Debug\FindElements.pdb
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.exe
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\obj\Debug\FindElements.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\obj\Debug\FindElements.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\bin\Debug\FindElements.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\bin\Debug\FindElements.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\obj\Debug\FindElements.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\obj\Debug\FindElements.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindElements\obj\Debug\FindElements.csproj.GenerateResource.Cache
+Y:\Chapter_13\FindElements\bin\Debug\FindElements.exe
+Y:\Chapter_13\FindElements\bin\Debug\FindElements.pdb
+Y:\Chapter_13\FindElements\obj\Debug\FindElements.Form1.resources
+Y:\Chapter_13\FindElements\obj\Debug\FindElements.Properties.Resources.resources
+Y:\Chapter_13\FindElements\obj\Debug\FindElements.csproj.GenerateResource.Cache
+Y:\Chapter_13\FindElements\obj\Debug\FindElements.exe
+Y:\Chapter_13\FindElements\obj\Debug\FindElements.pdb
+Y:\Chapter_13\FindElements\bin\Debug\FindElements.exe.config
+H:\Chapter_13\FindElements\bin\Debug\FindElements.exe.config
+H:\Chapter_13\FindElements\bin\Debug\FindElements.exe
+H:\Chapter_13\FindElements\bin\Debug\FindElements.pdb
+H:\Chapter_13\FindElements\obj\Debug\FindElements.Form1.resources
+H:\Chapter_13\FindElements\obj\Debug\FindElements.Properties.Resources.resources
+H:\Chapter_13\FindElements\obj\Debug\FindElements.csproj.GenerateResource.Cache
+H:\Chapter_13\FindElements\obj\Debug\FindElements.exe
+H:\Chapter_13\FindElements\obj\Debug\FindElements.pdb
+H:\Chapter_13\FindElements\obj\Debug\FindElements.csproj.CoreCompileInputs.cache

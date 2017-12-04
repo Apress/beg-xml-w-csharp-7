@@ -1,0 +1,7 @@
+bin\Debug\Parts of XML.exe.config
+bin\Debug\Parts of XML.XML
+bin\Debug\Parts of XML.exe
+bin\Debug\Parts of XML.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Parts of XML.exe
+obj\Debug\Parts of XML.pdb

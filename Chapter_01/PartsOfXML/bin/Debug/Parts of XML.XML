@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Parts of XML</name>
+    </assembly>
+    <members>
+        <member name="M:Parts_of_XML.Program.Main(System.String[])">
+            <summary>
+            This is the starting point.
+            </summary>
+            <param name="args">
+            This parameter receives command line arguments.
+            </param>
+        </member>
+    </members>
+</doc>

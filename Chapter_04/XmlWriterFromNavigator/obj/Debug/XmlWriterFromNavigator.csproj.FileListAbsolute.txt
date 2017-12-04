@@ -1,0 +1,24 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\XmlWriterFromNavigator.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\XmlWriterFromNavigator\obj\Debug\XmlWriterFromNavigator.csproj.GenerateResource.Cache
+H:\Chapter_04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.exe.config
+H:\Chapter_04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.exe
+H:\Chapter_04\XmlWriterFromNavigator\bin\Debug\WindowsApplication21.pdb
+H:\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Form1.resources
+H:\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.Properties.Resources.resources
+H:\Chapter_04\XmlWriterFromNavigator\obj\Debug\XmlWriterFromNavigator.csproj.GenerateResource.Cache
+H:\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.exe
+H:\Chapter_04\XmlWriterFromNavigator\obj\Debug\WindowsApplication21.pdb
+H:\Chapter_04\XmlWriterFromNavigator\obj\Debug\XmlWriterFromNavigator.csproj.CoreCompileInputs.cache

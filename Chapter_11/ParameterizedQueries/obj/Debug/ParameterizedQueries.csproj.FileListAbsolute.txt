@@ -1,0 +1,27 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\obj\Debug\WindowsApplication56.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\obj\Debug\WindowsApplication56.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\obj\Debug\ParameterizedQueries.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\obj\Debug\WindowsApplication56.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\obj\Debug\WindowsApplication56.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\bin\Debug\WindowsApplication56.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\bin\Debug\WindowsApplication56.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\ParameterizedQueries\bin\Debug\Microsoft.Data.SqlXml.dll
+Y:\Chapter_10\ParameterizedQueries\obj\Debug\WindowsApplication56.exe
+Y:\Chapter_10\ParameterizedQueries\obj\Debug\WindowsApplication56.pdb
+Y:\Chapter_10\ParameterizedQueries\bin\Debug\WindowsApplication56.exe.config
+Y:\Chapter_10\ParameterizedQueries\bin\Debug\WindowsApplication56.exe
+Y:\Chapter_10\ParameterizedQueries\bin\Debug\WindowsApplication56.pdb
+Y:\Chapter_10\ParameterizedQueries\bin\Debug\Microsoft.Data.SqlXml.dll
+Y:\Chapter_10\ParameterizedQueries\obj\Debug\WindowsApplication56.Form1.resources
+Y:\Chapter_10\ParameterizedQueries\obj\Debug\WindowsApplication56.Properties.Resources.resources
+Y:\Chapter_10\ParameterizedQueries\obj\Debug\ParameterizedQueries.csproj.GenerateResource.Cache
+H:\Chapter_11\ParameterizedQueries\bin\Debug\WindowsApplication56.exe.config
+H:\Chapter_11\ParameterizedQueries\bin\Debug\WindowsApplication56.exe
+H:\Chapter_11\ParameterizedQueries\bin\Debug\WindowsApplication56.pdb
+H:\Chapter_11\ParameterizedQueries\bin\Debug\Microsoft.Data.SqlXml.dll
+H:\Chapter_11\ParameterizedQueries\obj\Debug\WindowsApplication56.Form1.resources
+H:\Chapter_11\ParameterizedQueries\obj\Debug\WindowsApplication56.Properties.Resources.resources
+H:\Chapter_11\ParameterizedQueries\obj\Debug\ParameterizedQueries.csproj.GenerateResource.Cache
+H:\Chapter_11\ParameterizedQueries\obj\Debug\WindowsApplication56.exe
+H:\Chapter_11\ParameterizedQueries\obj\Debug\WindowsApplication56.pdb
+H:\Chapter_11\ParameterizedQueries\obj\Debug\ParameterizedQueries.csproj.CoreCompileInputs.cache

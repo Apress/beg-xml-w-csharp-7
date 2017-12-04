@@ -1,0 +1,26 @@
+﻿<Window x:Class="XmlDataProviderInWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XmlDataProviderInWpf"
+        mc:Ignorable="d"
+        Title="Employee Data" Height="250" Width="400">
+    <Grid>
+        <Grid.Resources>
+            <XmlDataProvider x:Key="EmployeeData" Source="Employees.xml" XPath="/employees/employee"/>
+        </Grid.Resources>
+        <DataGrid x:Name="grid1" DataContext="{StaticResource EmployeeData}" ItemsSource="{Binding XPath=/employees/employee}"
+ AutoGenerateColumns="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="EmployeeID" Binding="{Binding XPath=@employeeid}" />
+                <DataGridTextColumn Header="FirstName" Binding="{Binding XPath=firstname}" />
+                <DataGridTextColumn Header="LastName" Binding="{Binding XPath=lastname}" />
+                <DataGridTextColumn Header="HomePhone" Binding="{Binding XPath=homephone}" />
+                <DataGridTextColumn Header="Notes" Binding="{Binding XPath=notes}"  />
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

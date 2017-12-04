@@ -1,0 +1,24 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\bin\Debug\WindowsApplication8.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\bin\Debug\WindowsApplication8.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\bin\Debug\WindowsApplication8.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\bin\Debug\WindowsApplication8.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\bin\Debug\WindowsApplication8.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+H:\Chapter_02\WhiteSpaces\bin\Debug\WindowsApplication8.exe.config
+H:\Chapter_02\WhiteSpaces\bin\Debug\WindowsApplication8.exe
+H:\Chapter_02\WhiteSpaces\bin\Debug\WindowsApplication8.pdb
+H:\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.Form1.resources
+H:\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.Properties.Resources.resources
+H:\Chapter_02\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+H:\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.exe
+H:\Chapter_02\WhiteSpaces\obj\Debug\WindowsApplication8.pdb
+H:\Chapter_02\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.CoreCompileInputs.cache

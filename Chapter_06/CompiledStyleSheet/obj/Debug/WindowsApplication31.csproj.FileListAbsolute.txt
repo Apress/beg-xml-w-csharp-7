@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 06\WindowsApplication31\obj\Debug\WindowsApplication31.exe
+C:\Bipin\Code\Chapter 06\WindowsApplication31\obj\Debug\WindowsApplication31.pdb
+C:\Bipin\Code\Chapter 06\WindowsApplication31\bin\Debug\WindowsApplication31.exe
+C:\Bipin\Code\Chapter 06\WindowsApplication31\bin\Debug\WindowsApplication31.pdb
+C:\Bipin\Code\Chapter 06\WindowsApplication31\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 06\WindowsApplication31\obj\Debug\WindowsApplication31.Form1.resources
+C:\Bipin\Code\Chapter 06\WindowsApplication31\obj\Debug\WindowsApplication31.Properties.Resources.resources
+C:\Bipin\Code\Chapter 06\WindowsApplication31\obj\Debug\WindowsApplication31.csproj.GenerateResource.Cache

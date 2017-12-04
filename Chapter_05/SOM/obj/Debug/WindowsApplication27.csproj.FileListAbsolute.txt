@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 05\WindowsApplication27\obj\Debug\WindowsApplication27.exe
+C:\Bipin\Code\Chapter 05\WindowsApplication27\obj\Debug\WindowsApplication27.pdb
+C:\Bipin\Code\Chapter 05\WindowsApplication27\bin\Debug\WindowsApplication27.exe
+C:\Bipin\Code\Chapter 05\WindowsApplication27\bin\Debug\WindowsApplication27.pdb
+C:\Bipin\Code\Chapter 05\WindowsApplication27\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 05\WindowsApplication27\obj\Debug\WindowsApplication27.Form1.resources
+C:\Bipin\Code\Chapter 05\WindowsApplication27\obj\Debug\WindowsApplication27.Properties.Resources.resources
+C:\Bipin\Code\Chapter 05\WindowsApplication27\obj\Debug\WindowsApplication27.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.exe
+C:\Bipin\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.pdb
+C:\Bipin\Code\Chapter 05\SOM\bin\Debug\WindowsApplication27.exe
+C:\Bipin\Code\Chapter 05\SOM\bin\Debug\WindowsApplication27.pdb
+C:\Bipin\Code\Chapter 05\SOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.Form1.resources
+C:\Bipin\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.Properties.Resources.resources
+C:\Bipin\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.pdb

@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 08\WindowsApplication49\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication49\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication49\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication49\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication49\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\WindowsApplication49\obj\Debug\WindowsApplication49.Form1.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication49\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication49\obj\Debug\WindowsApplication49.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\CustomSerialization\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\CustomSerialization\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\CustomSerialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication49.Form1.resources
+C:\Bipin\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication49.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\CustomSerialization\obj\Debug\WindowsApplication45.pdb

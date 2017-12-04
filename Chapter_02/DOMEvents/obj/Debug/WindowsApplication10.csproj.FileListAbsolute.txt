@@ -1,0 +1,25 @@
+C:\Bipin\Code\Chapter 02\WindowsApplication10\obj\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication10\obj\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication10\bin\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication10\bin\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication10\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\WindowsApplication10\obj\Debug\WindowsApplication7.Form1.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication10\obj\Debug\WindowsApplication7.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication10\obj\Debug\WindowsApplication10.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\DOMEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.Form1.resources
+C:\Bipin\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication10.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication10.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication10.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+<!ELEMENT employees (employee*)>
+<!ELEMENT employee (firstname,lastname,homephone,notes)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT homephone (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+<!ATTLIST employee employeeid CDATA #REQUIRED>
+

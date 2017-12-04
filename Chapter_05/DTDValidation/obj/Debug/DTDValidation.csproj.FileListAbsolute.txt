@@ -1,0 +1,48 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\bin\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\bin\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\DTDValidation.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\DTDValidation.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe.config
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Form1.resources
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Properties.Resources.resources
+Z:\Authoring\Books\Beginning_XML_with_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csproj.GenerateResource.Cache
+Y:\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe.config
+Y:\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.exe
+Y:\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+H:\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe.config
+H:\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.exe
+H:\Chapter_05\DTDValidation\bin\Debug\WindowsApplication26.pdb
+H:\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Form1.resources
+H:\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.Properties.Resources.resources
+H:\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csproj.GenerateResource.Cache
+H:\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csproj.CoreCompileInputs.cache
+H:\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.exe
+H:\Chapter_05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+H:\Chapter_05\DTDValidation\obj\Debug\DTDValidation.csprojResolveAssemblyReference.cache

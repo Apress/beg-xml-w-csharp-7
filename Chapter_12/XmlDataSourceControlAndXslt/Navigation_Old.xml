@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MenuItem Title="Home" URL="default.aspx">
+  <MenuItem Title="Products" URL="products.aspx">
+    <MenuItem Title="Product 1" URL="product1.aspx" />
+    <MenuItem Title="Product 2" URL="product2.aspx" />
+    <MenuItem Title="Product 3" URL="product3.aspx" />
+  </MenuItem>
+  <MenuItem Title="Services" URL="services.aspx">
+    <MenuItem Title="Service 1" URL="service1.aspx" />
+    <MenuItem Title="Service 2" URL="service2.aspx" />
+    <MenuItem Title="Service 3" URL="service3.aspx" />
+  </MenuItem>
+  <MenuItem Title="About Us" URL="about.aspx" />
+  <MenuItem Title="Contact Us" URL="contact.aspx" />
+</MenuItem>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XmlComments</name>
+    </assembly>
+    <members>
+        <member name="T:XmlComments.Calculator">
+            <summary>
+            This is a class that represents
+            a simple mathematical calculator.
+            <para>
+            You can use it to add, subtract,
+            divide and multiply integers and
+            fractional numbers.
+            </para>
+            <list type="bullet">
+            <listheader>Supported Operations</listheader>
+            <item>Addition</item>
+            <item>Subtraction</item>
+            <item>Division</item>
+            <item>Multiplication</item>
+            </list>
+            </summary>
+            <remarks>
+            This class is developed on .NET Framework 4.7
+            </remarks>
+        </member>
+        <member name="M:XmlComments.Calculator.Add(System.Int32,System.Int32)">
+            <summary>
+            This method adds two integers.
+            </summary>
+            <param name="a">The first number</param>
+            <param name="b">The second number</param>
+            <returns>An integer representing addition of a and b</returns>
+            <permission cref="M:XmlComments.Calculator.Add(System.Int32,System.Int32)">Public method</permission>
+            <seealso cref="M:XmlComments.Calculator.Subtract(System.Int32,System.Int32)"/>
+        </member>
+        <member name="M:XmlComments.Calculator.Subtract(System.Int32,System.Int32)">
+            <summary>
+            This method subtracts two integers.
+            </summary>
+            <param name="a">The first number</param>
+            <param name="b">The second number</param>
+            <returns>A double representing subtraction of a and b</returns>
+            <permission cref="M:XmlComments.Calculator.Subtract(System.Int32,System.Int32)">Public method</permission>
+            <seealso cref="M:XmlComments.Calculator.Add(System.Int32,System.Int32)"/>
+        </member>
+        <member name="M:XmlComments.Calculator.Divide(System.Int32,System.Int32)">
+            <summary>
+            This method divides two integers.
+            </summary>
+            <param name="a">The first number</param>
+            <param name="b">The second number</param>
+            <returns>An integer representing result of division of a and b</returns>
+            <permission cref="M:XmlComments.Calculator.Divide(System.Int32,System.Int32)">Public method</permission>
+            <seealso cref="M:XmlComments.Calculator.Subtract(System.Int32,System.Int32)"/>
+        </member>
+        <member name="M:XmlComments.Calculator.Multiply(System.Int32,System.Int32)">
+            <summary>
+            This method multiplies two integers.
+            </summary>
+            <param name="a">The first number</param>
+            <param name="b">The second number</param>
+            <returns>An integer representing multiplication of a and b</returns>
+            <permission cref="M:XmlComments.Calculator.Multiply(System.Int32,System.Int32)">Public method</permission>
+            <seealso cref="M:XmlComments.Calculator.Subtract(System.Int32,System.Int32)"/>
+        </member>
+    </members>
+</doc>

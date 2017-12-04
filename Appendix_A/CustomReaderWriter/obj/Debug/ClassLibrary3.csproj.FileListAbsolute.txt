@@ -1,0 +1,5 @@
+C:\Bipin\Code\Appendix A\ClassLibrary3\bin\Debug\CustomReaderWriter.dll
+C:\Bipin\Code\Appendix A\ClassLibrary3\bin\Debug\CustomReaderWriter.pdb
+C:\Bipin\Code\Appendix A\ClassLibrary3\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Appendix A\ClassLibrary3\obj\Debug\CustomReaderWriter.dll
+C:\Bipin\Code\Appendix A\ClassLibrary3\obj\Debug\CustomReaderWriter.pdb

@@ -1,0 +1,10 @@
+bin\Debug\WindowsApplication00.exe
+bin\Debug\WindowsApplication00.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication00.Form1.resources
+obj\Debug\WindowsApplication00.Properties.Resources.resources
+obj\Debug\WindowsApplication00.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication00.exe
+obj\Debug\WindowsApplication00.pdb
+bin\Debug\ClassLibrary0.dll
+bin\Debug\ClassLibrary0.pdb

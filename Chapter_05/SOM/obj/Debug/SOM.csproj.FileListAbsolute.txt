@@ -1,0 +1,42 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\bin\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\bin\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\SOM.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SOM\obj\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SOM\obj\Debug\SOM.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\obj\Debug\SOM.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SOM\obj\Debug\SOM.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe.config
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\bin\Debug\WindowsApplication27.pdb
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\obj\Debug\SOM.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.Form1.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\obj\Debug\SOM.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SOM\obj\Debug\WindowsApplication27.pdb
+H:\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe.config
+H:\Chapter_05\SOM\bin\Debug\WindowsApplication27.exe
+H:\Chapter_05\SOM\bin\Debug\WindowsApplication27.pdb
+H:\Chapter_05\SOM\obj\Debug\WindowsApplication27.Form1.resources
+H:\Chapter_05\SOM\obj\Debug\WindowsApplication27.Properties.Resources.resources
+H:\Chapter_05\SOM\obj\Debug\SOM.csproj.GenerateResource.Cache
+H:\Chapter_05\SOM\obj\Debug\SOM.csproj.CoreCompileInputs.cache
+H:\Chapter_05\SOM\obj\Debug\WindowsApplication27.exe
+H:\Chapter_05\SOM\obj\Debug\WindowsApplication27.pdb

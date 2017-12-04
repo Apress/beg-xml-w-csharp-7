@@ -1,0 +1,23 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\bin\Debug\WindowsApplication66.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\bin\Debug\WindowsApplication66.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\bin\Debug\CustomReaderWriter.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\bin\Debug\CustomReaderWriter.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\CustomReaderClient.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\CustomReaderClient.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\bin\Debug\WindowsApplication66.exe.config
+H:\Appendix_A\CustomReaderClient\bin\Debug\WindowsApplication66.exe.config
+H:\Appendix_A\CustomReaderClient\bin\Debug\WindowsApplication66.exe
+H:\Appendix_A\CustomReaderClient\bin\Debug\WindowsApplication66.pdb
+H:\Appendix_A\CustomReaderClient\bin\Debug\CustomReaderWriter.dll
+H:\Appendix_A\CustomReaderClient\bin\Debug\CustomReaderWriter.pdb
+H:\Appendix_A\CustomReaderClient\obj\Debug\CustomReaderClient.csprojResolveAssemblyReference.cache
+H:\Appendix_A\CustomReaderClient\obj\Debug\WindowsApplication66.Form1.resources
+H:\Appendix_A\CustomReaderClient\obj\Debug\WindowsApplication66.Properties.Resources.resources
+H:\Appendix_A\CustomReaderClient\obj\Debug\CustomReaderClient.csproj.GenerateResource.Cache
+H:\Appendix_A\CustomReaderClient\obj\Debug\WindowsApplication66.exe
+H:\Appendix_A\CustomReaderClient\obj\Debug\WindowsApplication66.pdb
+H:\Appendix_A\CustomReaderClient\obj\Debug\CustomReaderClient.csproj.CoreCompileInputs.cache

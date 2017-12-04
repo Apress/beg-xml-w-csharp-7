@@ -1,0 +1,23 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SchemaFromAssembly\bin\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SchemaFromAssembly\bin\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SchemaFromAssembly\obj\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\SchemaFromAssembly\obj\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SchemaFromAssembly\obj\Debug\SchemaFromAssembly.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.pdb
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SchemaFromAssembly\obj\Debug\SchemaFromAssembly.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.dll
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.pdb
+H:\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.dll
+H:\Chapter_05\SchemaFromAssembly\bin\Debug\ClassLibrary1.pdb
+H:\Chapter_05\SchemaFromAssembly\obj\Debug\SchemaFromAssembly.csproj.CoreCompileInputs.cache
+H:\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.dll
+H:\Chapter_05\SchemaFromAssembly\obj\Debug\ClassLibrary1.pdb

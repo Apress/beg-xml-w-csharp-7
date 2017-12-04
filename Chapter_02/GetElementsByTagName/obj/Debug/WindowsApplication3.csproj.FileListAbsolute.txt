@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 02\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication3\obj\Debug\WindowsApplication3.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication3\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\bin\Debug\WindowsApplication3.pdb
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.Form1.resources
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb

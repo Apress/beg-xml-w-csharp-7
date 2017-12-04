@@ -1,0 +1,8 @@
+bin\Debug\WindowsApplication20.exe
+bin\Debug\WindowsApplication20.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication20.Form1.resources
+obj\Debug\WindowsApplication20.Properties.Resources.resources
+obj\Debug\WindowsApplication20.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication20.exe
+obj\Debug\WindowsApplication20.pdb

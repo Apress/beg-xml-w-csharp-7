@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- This is list of customers -->
+<customers>
+  <customer ID="C001">
+    <name>Nancy Davolio</name>
+    <email>nancy@localhost</email>
+    <comments>
+      <![CDATA[Regular customer since 1995]]>
+    </comments>
+  </customer>
+  <customer ID="C002">
+    <name>Steven Buchanan</name>
+    <email>steven@localhost</email>
+    <comments>
+      <![CDATA[New customer interested in multiple services]]>
+    </comments>
+  </customer>
+</customers>
+

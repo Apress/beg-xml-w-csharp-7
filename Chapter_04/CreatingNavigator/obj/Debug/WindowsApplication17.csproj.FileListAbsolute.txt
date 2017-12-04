@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 04\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication17\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\WindowsApplication17\obj\Debug\WindowsApplication17.Form1.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication17\obj\Debug\WindowsApplication17.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication17\obj\Debug\WindowsApplication17.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.exe
+C:\Bipin\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.pdb
+C:\Bipin\Code\Chapter 04\CreatingNavigator\bin\Debug\WindowsApplication17.exe
+C:\Bipin\Code\Chapter 04\CreatingNavigator\bin\Debug\WindowsApplication17.pdb
+C:\Bipin\Code\Chapter 04\CreatingNavigator\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.Form1.resources
+C:\Bipin\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\CreatingNavigator\obj\Debug\WindowsApplication17.pdb

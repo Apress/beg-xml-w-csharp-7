@@ -1,0 +1,33 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\bin\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\bin\Debug\WindowsApplication16.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\NonTextData.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe.config
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.pdb
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\obj\Debug\NonTextData.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Form1.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.pdb
+H:\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe.config
+H:\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe
+H:\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.pdb
+H:\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Form1.resources
+H:\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Properties.Resources.resources
+H:\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.GenerateResource.Cache
+H:\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.CoreCompileInputs.cache
+H:\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.exe
+H:\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.pdb

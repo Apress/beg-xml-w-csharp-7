@@ -1,0 +1,8 @@
+bin\Debug\WindowsApplication8.exe
+bin\Debug\WindowsApplication8.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication8.Form1.resources
+obj\Debug\WindowsApplication8.Properties.Resources.resources
+obj\Debug\WindowsApplication8.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication8.exe
+obj\Debug\WindowsApplication8.pdb

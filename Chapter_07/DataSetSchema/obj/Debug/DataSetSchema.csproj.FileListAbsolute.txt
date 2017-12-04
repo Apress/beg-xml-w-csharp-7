@@ -1,0 +1,24 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\bin\Debug\WindowsApplication37.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\bin\Debug\WindowsApplication37.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\obj\Debug\WindowsApplication37.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\obj\Debug\WindowsApplication37.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\obj\Debug\DataSetSchema.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\obj\Debug\WindowsApplication37.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\DataSetSchema\obj\Debug\WindowsApplication37.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\bin\Debug\WindowsApplication37.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\bin\Debug\WindowsApplication37.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\bin\Debug\WindowsApplication37.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_07\DataSetSchema\obj\Debug\DataSetSchema.csproj.GenerateResource.Cache
+H:\Chapter_07\DataSetSchema\bin\Debug\WindowsApplication37.exe.config
+H:\Chapter_07\DataSetSchema\bin\Debug\WindowsApplication37.exe
+H:\Chapter_07\DataSetSchema\bin\Debug\WindowsApplication37.pdb
+H:\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.Form1.resources
+H:\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.Properties.Resources.resources
+H:\Chapter_07\DataSetSchema\obj\Debug\DataSetSchema.csproj.GenerateResource.Cache
+H:\Chapter_07\DataSetSchema\obj\Debug\DataSetSchema.csproj.CoreCompileInputs.cache
+H:\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.exe
+H:\Chapter_07\DataSetSchema\obj\Debug\WindowsApplication37.pdb

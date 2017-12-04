@@ -1,0 +1,28 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\bin\Debug\WindowsApplication7.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\DOMEvents.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\DOMEvents.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\DOMEvents\obj\Debug\WindowsApplication7.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\bin\Debug\WindowsApplication7.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\obj\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\obj\Debug\WindowsApplication7.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\bin\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\bin\Debug\WindowsApplication7.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\obj\Debug\DOMEvents.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\obj\Debug\WindowsApplication7.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\obj\Debug\WindowsApplication7.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\DOMEvents\obj\Debug\DOMEvents.csproj.GenerateResource.Cache
+H:\Chapter_02\DOMEvents\obj\Debug\WindowsApplication7.Form1.resources
+H:\Chapter_02\DOMEvents\obj\Debug\DOMEvents.csproj.GenerateResource.Cache
+H:\Chapter_02\DOMEvents\bin\Debug\DOMEvents.exe.config
+H:\Chapter_02\DOMEvents\bin\Debug\DOMEvents.exe
+H:\Chapter_02\DOMEvents\bin\Debug\DOMEvents.pdb
+H:\Chapter_02\DOMEvents\obj\Debug\DOMEvents.Properties.Resources.resources
+H:\Chapter_02\DOMEvents\obj\Debug\DOMEvents.csproj.CoreCompileInputs.cache
+H:\Chapter_02\DOMEvents\obj\Debug\DOMEvents.exe
+H:\Chapter_02\DOMEvents\obj\Debug\DOMEvents.pdb
+H:\Chapter_02\DOMEvents\obj\Debug\DOMEvents.csprojResolveAssemblyReference.cache

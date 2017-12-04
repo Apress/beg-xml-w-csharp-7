@@ -1,0 +1,17 @@
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\bin\Debug\WindowsApplication28.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\bin\Debug\WindowsApplication28.pdb
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\obj\Debug\XmlReaderValidationViaCode.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.Form1.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\obj\Debug\XmlReaderValidationViaCode.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.exe
+Z:\Authoring\Books\XML_CS_7\Work\Code\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.pdb
+H:\Chapter_05\XmlReaderValidationViaCode\bin\Debug\WindowsApplication28.exe
+H:\Chapter_05\XmlReaderValidationViaCode\bin\Debug\WindowsApplication28.pdb
+H:\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.Form1.resources
+H:\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.Properties.Resources.resources
+H:\Chapter_05\XmlReaderValidationViaCode\obj\Debug\XmlReaderValidationViaCode.csproj.GenerateResource.Cache
+H:\Chapter_05\XmlReaderValidationViaCode\obj\Debug\XmlReaderValidationViaCode.csproj.CoreCompileInputs.cache
+H:\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.exe
+H:\Chapter_05\XmlReaderValidationViaCode\obj\Debug\WindowsApplication28.pdb
+H:\Chapter_05\XmlReaderValidationViaCode\bin\Debug\WindowsApplication28.exe.config

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="84957921-0931-490e-a192-95f2f235a785" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/EmployeeWCFService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EmployeeWCFService.xsd" MetadataType="Schema" ID="ace7b38a-523b-4252-bb68-8b01e999a2d2" SourceId="1" SourceUrl="http://localhost:8000/EmployeeWCFService?xsd=xsd1" />
+    <MetadataFile FileName="EmployeeWCFService.disco" MetadataType="Disco" ID="66968810-eca2-4aec-beb3-63729176eb7f" SourceId="1" SourceUrl="http://localhost:8000/EmployeeWCFService?disco" />
+    <MetadataFile FileName="EmployeeWCFService1.xsd" MetadataType="Schema" ID="cc816a1e-60af-406a-a1e6-d0a13347ee5b" SourceId="1" SourceUrl="http://localhost:8000/EmployeeWCFService?xsd=xsd0" />
+    <MetadataFile FileName="EmployeeWCFService2.xsd" MetadataType="Schema" ID="c7580d3a-6cd1-45fa-a746-b70829741314" SourceId="1" SourceUrl="http://localhost:8000/EmployeeWCFService?xsd=xsd2" />
+    <MetadataFile FileName="EmployeeManager.wsdl" MetadataType="Wsdl" ID="acdb45a6-70c9-4d15-9b6b-9dec11aa8b39" SourceId="1" SourceUrl="http://localhost:8000/EmployeeWCFService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

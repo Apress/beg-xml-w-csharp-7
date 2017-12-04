@@ -1,0 +1,30 @@
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\bin\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\bin\Debug\ClassLibrary0.pdb
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\obj\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\obj\Debug\ClassLibrary0.pdb
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\bin\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\bin\Debug\ClassLibrary0.pdb
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\obj\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\obj\Debug\ClassLibrary0.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWorldLib\bin\Debug\ClassLibrary0.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWorldLib\bin\Debug\ClassLibrary0.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWorldLib\obj\Debug\HelloWorldLib.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWorldLib\obj\Debug\ClassLibrary0.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\HelloWorldLib\obj\Debug\ClassLibrary0.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWorldLib\bin\Debug\ClassLibrary0.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWorldLib\bin\Debug\ClassLibrary0.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWorldLib\obj\Debug\HelloWorldLib.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWorldLib\obj\Debug\ClassLibrary0.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\HelloWorldLib\obj\Debug\ClassLibrary0.pdb
+Y:\Chapter_01\HelloWorldLib\bin\Debug\ClassLibrary0.dll
+Y:\Chapter_01\HelloWorldLib\bin\Debug\ClassLibrary0.pdb
+Y:\Chapter_01\HelloWorldLib\obj\Debug\HelloWorldLib.csprojResolveAssemblyReference.cache
+Y:\Chapter_01\HelloWorldLib\obj\Debug\ClassLibrary0.dll
+Y:\Chapter_01\HelloWorldLib\obj\Debug\ClassLibrary0.pdb
+H:\Chapter_01\HelloWorldLib\bin\Debug\HelloWorldLib.dll
+H:\Chapter_01\HelloWorldLib\bin\Debug\HelloWorldLib.pdb
+H:\Chapter_01\HelloWorldLib\obj\Debug\HelloWorldLib.csproj.CoreCompileInputs.cache
+H:\Chapter_01\HelloWorldLib\obj\Debug\HelloWorldLib.dll
+H:\Chapter_01\HelloWorldLib\obj\Debug\HelloWorldLib.pdb

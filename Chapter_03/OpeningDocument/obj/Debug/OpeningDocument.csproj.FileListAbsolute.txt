@@ -1,0 +1,25 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\bin\Debug\WindowsApplication1.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\bin\Debug\WindowsApplication1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\obj\Debug\WindowsApplication1.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\obj\Debug\WindowsApplication1.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\obj\Debug\OpeningDocument.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\obj\Debug\WindowsApplication1.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\OpeningDocument\obj\Debug\WindowsApplication1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.GenerateResource.Cache
+H:\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.exe.config
+H:\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.exe
+H:\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.pdb
+H:\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.Form1.resources
+H:\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.Properties.Resources.resources
+H:\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.GenerateResource.Cache
+H:\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.CoreCompileInputs.cache
+H:\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.exe
+H:\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.pdb

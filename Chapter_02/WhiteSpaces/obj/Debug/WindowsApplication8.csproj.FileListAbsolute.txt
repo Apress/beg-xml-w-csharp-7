@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 02\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication8\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication8\obj\Debug\WindowsApplication8.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication8\obj\Debug\WindowsApplication8.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.exe
+C:\Bipin\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\WhiteSpaces\obj\Debug\WindowsApplication8.pdb

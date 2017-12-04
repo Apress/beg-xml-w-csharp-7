@@ -1,0 +1,26 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\obj\Debug\WindowsApplication4.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\obj\Debug\WindowsApplication4.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\bin\Debug\WindowsApplication4.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\bin\Debug\WindowsApplication4.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\obj\Debug\GetElementsByID.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\obj\Debug\WindowsApplication4.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\obj\Debug\WindowsApplication4.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\GetElementsByID\obj\Debug\GetElementsByID.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\obj\Debug\WindowsApplication4.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\obj\Debug\WindowsApplication4.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\bin\Debug\WindowsApplication4.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\bin\Debug\WindowsApplication4.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\bin\Debug\WindowsApplication4.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\obj\Debug\WindowsApplication4.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\obj\Debug\WindowsApplication4.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.csproj.GenerateResource.Cache
+H:\Chapter_02\GetElementsByID\obj\Debug\WindowsApplication4.Form1.resources
+H:\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.csproj.GenerateResource.Cache
+H:\Chapter_02\GetElementsByID\bin\Debug\GetElementsByID.exe.config
+H:\Chapter_02\GetElementsByID\bin\Debug\GetElementsByID.exe
+H:\Chapter_02\GetElementsByID\bin\Debug\GetElementsByID.pdb
+H:\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.Properties.Resources.resources
+H:\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.csproj.CoreCompileInputs.cache
+H:\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.exe
+H:\Chapter_02\GetElementsByID\obj\Debug\GetElementsByID.pdb

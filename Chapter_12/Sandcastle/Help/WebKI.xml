@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/4f2d4784-597a-0b2e-b181-1e7fdcd7c55b.htm" />
+  <HelpKINode Title="Calculator class">
+    <HelpKINode Title="Calculator Class" Url="html/b939e2bb-092e-6f92-d6a2-46969b687067.htm" />
+    <HelpKINode Title="about Calculator class" Url="html/b939e2bb-092e-6f92-d6a2-46969b687067.htm" />
+    <HelpKINode Title="constructor" Url="html/f762f607-147b-4ed8-01a5-79bc5f3aa1fd.htm" />
+    <HelpKINode Title="methods" Url="html/a8f61ce7-32f9-92a3-90f4-ed476a3f66c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Calculator.Add method" Url="html/4f2d4784-597a-0b2e-b181-1e7fdcd7c55b.htm" />
+  <HelpKINode Title="Calculator.Calculator constructor" Url="html/f762f607-147b-4ed8-01a5-79bc5f3aa1fd.htm" />
+  <HelpKINode Title="Calculator.Divide method" Url="html/b9624f6a-e2f9-c9e4-2747-9079f3f85923.htm" />
+  <HelpKINode Title="Calculator.Multiply method" Url="html/cd00be4c-7098-5b1f-ef59-766d3560bc8f.htm" />
+  <HelpKINode Title="Calculator.Subtract method" Url="html/1a00e8c0-2267-5b36-fe71-8b8c31eb0324.htm" />
+  <HelpKINode Title="Divide method" Url="html/b9624f6a-e2f9-c9e4-2747-9079f3f85923.htm" />
+  <HelpKINode Title="Multiply method" Url="html/cd00be4c-7098-5b1f-ef59-766d3560bc8f.htm" />
+  <HelpKINode Title="Subtract method" Url="html/1a00e8c0-2267-5b36-fe71-8b8c31eb0324.htm" />
+  <HelpKINode Title="XmlComments namespace" Url="html/3404bb84-745e-6ef3-c149-5cedd360eddb.htm" />
+  <HelpKINode Title="XmlComments.Calculator class" Url="html/b939e2bb-092e-6f92-d6a2-46969b687067.htm" />
+</HelpKI>

@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Calculator.dll
+bin\Debug\Calculator.pdb
+obj\Debug\Calculator.dll
+obj\Debug\Calculator.pdb
+bin\Debug\Comments.xml

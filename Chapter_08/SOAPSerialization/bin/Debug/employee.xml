@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Employee id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/WindowsApplication45/WindowsApplication45%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_EmployeeID_x003E_k__BackingField>1</_x003C_EmployeeID_x003E_k__BackingField>
+<_x003C_FirstName_x003E_k__BackingField id="ref-3">Nancy</_x003C_FirstName_x003E_k__BackingField>
+<_x003C_LastName_x003E_k__BackingField id="ref-4">Davolio</_x003C_LastName_x003E_k__BackingField>
+<_x003C_HomePhone_x003E_k__BackingField id="ref-5">(206) 555-9857</_x003C_HomePhone_x003E_k__BackingField>
+<_x003C_Notes_x003E_k__BackingField id="ref-6">Education includes a BA in psychology from Colorado State University in 1970.  She also completed &#34;The Art of the Cold Call.&#34;  Nancy is a member of Toastmasters International.</_x003C_Notes_x003E_k__BackingField>
+</a1:Employee>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

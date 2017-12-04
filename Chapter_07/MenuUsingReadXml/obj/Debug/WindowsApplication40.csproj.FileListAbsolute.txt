@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 07\WindowsApplication40\obj\Debug\WindowsApplication40.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication40\obj\Debug\WindowsApplication40.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication40\bin\Debug\WindowsApplication40.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication40\bin\Debug\WindowsApplication40.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication40\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\WindowsApplication40\obj\Debug\WindowsApplication40.Form1.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication40\obj\Debug\WindowsApplication40.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication40\obj\Debug\WindowsApplication40.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 07\MenuUsingReadXml\obj\Debug\WindowsApplication40.exe
+C:\Bipin\Code\Chapter 07\MenuUsingReadXml\obj\Debug\WindowsApplication40.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\MenuUsingReadXml\obj\Debug\WindowsApplication40.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\MenuUsingReadXml\obj\Debug\WindowsApplication40.pdb

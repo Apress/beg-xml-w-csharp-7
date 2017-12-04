@@ -1,0 +1,12 @@
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EmployeeWCFServiceHost.exe.config
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EmployeeWCFServiceHost.exe
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EmployeeWCFServiceHost.pdb
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EmployeeWCFService.dll
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EntityFramework.dll
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EmployeeWCFService.pdb
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EmployeeWCFService.dll.config
+H:\Chapter_10\EmployeeWCFServiceHost\bin\Debug\EntityFramework.xml
+H:\Chapter_10\EmployeeWCFServiceHost\obj\Debug\EmployeeWCFServiceHost.csprojResolveAssemblyReference.cache
+H:\Chapter_10\EmployeeWCFServiceHost\obj\Debug\EmployeeWCFServiceHost.exe
+H:\Chapter_10\EmployeeWCFServiceHost\obj\Debug\EmployeeWCFServiceHost.pdb
+H:\Chapter_10\EmployeeWCFServiceHost\obj\Debug\EmployeeWCFServiceHost.csproj.CoreCompileInputs.cache

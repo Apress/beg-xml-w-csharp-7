@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Form1.resources
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.pdb
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.exe
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.csproj.GenerateResource.Cache
+Y:\Chapter_13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe
+Y:\Chapter_13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.pdb
+Y:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Form1.resources
+Y:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Properties.Resources.resources
+Y:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.csproj.GenerateResource.Cache
+Y:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.exe
+Y:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.pdb
+Y:\Chapter_13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe.config
+H:\Chapter_13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe.config
+H:\Chapter_13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe
+H:\Chapter_13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.pdb
+H:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Form1.resources
+H:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Properties.Resources.resources
+H:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.csproj.GenerateResource.Cache
+H:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.exe
+H:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.pdb
+H:\Chapter_13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.csproj.CoreCompileInputs.cache

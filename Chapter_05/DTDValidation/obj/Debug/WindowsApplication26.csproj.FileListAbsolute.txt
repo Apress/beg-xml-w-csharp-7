@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 05\WindowsApplication26\obj\Debug\WindowsApplication26.exe
+C:\Bipin\Code\Chapter 05\WindowsApplication26\obj\Debug\WindowsApplication26.pdb
+C:\Bipin\Code\Chapter 05\WindowsApplication26\bin\Debug\WindowsApplication26.exe
+C:\Bipin\Code\Chapter 05\WindowsApplication26\bin\Debug\WindowsApplication26.pdb
+C:\Bipin\Code\Chapter 05\WindowsApplication26\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 05\WindowsApplication26\obj\Debug\WindowsApplication26.Form1.resources
+C:\Bipin\Code\Chapter 05\WindowsApplication26\obj\Debug\WindowsApplication26.Properties.Resources.resources
+C:\Bipin\Code\Chapter 05\WindowsApplication26\obj\Debug\WindowsApplication26.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.exe
+C:\Bipin\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 05\DTDValidation\obj\Debug\WindowsApplication26.pdb

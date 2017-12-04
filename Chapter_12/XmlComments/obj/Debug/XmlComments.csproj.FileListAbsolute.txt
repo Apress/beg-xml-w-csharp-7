@@ -1,0 +1,17 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 11\XmlComments\bin\Debug\Comments.xml
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 11\XmlComments\bin\Debug\Calculator.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 11\XmlComments\bin\Debug\Calculator.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 11\XmlComments\obj\Debug\Calculator.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 11\XmlComments\obj\Debug\Calculator.pdb
+Y:\Chapter_11\XmlComments\bin\Debug\Comments.xml
+Y:\Chapter_11\XmlComments\bin\Debug\Calculator.dll
+Y:\Chapter_11\XmlComments\bin\Debug\Calculator.pdb
+Y:\Chapter_11\XmlComments\obj\Debug\XmlComments.csprojResolveAssemblyReference.cache
+Y:\Chapter_11\XmlComments\obj\Debug\Calculator.dll
+Y:\Chapter_11\XmlComments\obj\Debug\Calculator.pdb
+H:\Chapter_12\XmlComments\bin\Debug\XmlComments.dll
+H:\Chapter_12\XmlComments\bin\Debug\XmlComments.pdb
+H:\Chapter_12\XmlComments\obj\Debug\XmlComments.dll
+H:\Chapter_12\XmlComments\obj\Debug\XmlComments.pdb
+H:\Chapter_12\XmlComments\bin\Debug\XmlComments.xml
+H:\Chapter_12\XmlComments\obj\Debug\XmlComments.csproj.CoreCompileInputs.cache

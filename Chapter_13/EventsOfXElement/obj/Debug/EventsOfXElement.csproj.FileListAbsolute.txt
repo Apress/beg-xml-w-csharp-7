@@ -1,0 +1,35 @@
+C:\Bipin\Code\Chapter 13\EventsOfXElement\bin\Debug\EventsOfXElement.exe
+C:\Bipin\Code\Chapter 13\EventsOfXElement\bin\Debug\EventsOfXElement.pdb
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.Form1.resources
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.exe
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\bin\Debug\EventsOfXElement.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\bin\Debug\EventsOfXElement.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.csproj.GenerateResource.Cache
+Y:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.exe
+Y:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.pdb
+Y:\Chapter_13\EventsOfXElement\bin\Debug\EventsOfXElement.exe
+Y:\Chapter_13\EventsOfXElement\bin\Debug\EventsOfXElement.pdb
+Y:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.csprojResolveAssemblyReference.cache
+Y:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.Form1.resources
+Y:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.Properties.Resources.resources
+Y:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.csproj.GenerateResource.Cache
+Y:\Chapter_13\EventsOfXElement\bin\Debug\EventsOfXElement.exe.config
+H:\Chapter_13\EventsOfXElement\bin\Debug\EventsOfXElement.exe.config
+H:\Chapter_13\EventsOfXElement\bin\Debug\EventsOfXElement.exe
+H:\Chapter_13\EventsOfXElement\bin\Debug\EventsOfXElement.pdb
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.Form1.resources
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.Properties.Resources.resources
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.csproj.GenerateResource.Cache
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.exe
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.pdb
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.csproj.CoreCompileInputs.cache
+H:\Chapter_13\EventsOfXElement\obj\Debug\EventsOfXElement.csprojResolveAssemblyReference.cache

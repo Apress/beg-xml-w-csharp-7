@@ -1,0 +1,24 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\bin\Debug\WindowsApplication32.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\bin\Debug\WindowsApplication32.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\Parameters\obj\Debug\Parameters.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\obj\Debug\WindowsApplication32.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\obj\Debug\WindowsApplication32.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\bin\Debug\WindowsApplication32.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\bin\Debug\WindowsApplication32.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\bin\Debug\WindowsApplication32.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\obj\Debug\WindowsApplication32.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\obj\Debug\WindowsApplication32.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\Parameters\obj\Debug\Parameters.csproj.GenerateResource.Cache
+H:\Chapter_06\Parameters\bin\Debug\WindowsApplication32.exe.config
+H:\Chapter_06\Parameters\bin\Debug\WindowsApplication32.exe
+H:\Chapter_06\Parameters\bin\Debug\WindowsApplication32.pdb
+H:\Chapter_06\Parameters\obj\Debug\WindowsApplication32.Form1.resources
+H:\Chapter_06\Parameters\obj\Debug\WindowsApplication32.Properties.Resources.resources
+H:\Chapter_06\Parameters\obj\Debug\Parameters.csproj.GenerateResource.Cache
+H:\Chapter_06\Parameters\obj\Debug\WindowsApplication32.exe
+H:\Chapter_06\Parameters\obj\Debug\WindowsApplication32.pdb
+H:\Chapter_06\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache

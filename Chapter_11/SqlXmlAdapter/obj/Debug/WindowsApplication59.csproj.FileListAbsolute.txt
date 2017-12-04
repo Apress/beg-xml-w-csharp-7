@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 10\WindowsApplication59\obj\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\WindowsApplication59\obj\Debug\WindowsApplication56.pdb
+C:\Bipin\Code\Chapter 10\WindowsApplication59\bin\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\WindowsApplication59\bin\Debug\WindowsApplication56.pdb
+C:\Bipin\Code\Chapter 10\WindowsApplication59\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 10\WindowsApplication59\obj\Debug\WindowsApplication56.Form1.resources
+C:\Bipin\Code\Chapter 10\WindowsApplication59\obj\Debug\WindowsApplication56.Properties.Resources.resources
+C:\Bipin\Code\Chapter 10\WindowsApplication59\obj\Debug\WindowsApplication59.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 10\SqlXmlAdapter\obj\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\SqlXmlAdapter\obj\Debug\WindowsApplication56.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\SqlXmlAdapter\obj\Debug\WindowsApplication56.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 10\SqlXmlAdapter\obj\Debug\WindowsApplication56.pdb

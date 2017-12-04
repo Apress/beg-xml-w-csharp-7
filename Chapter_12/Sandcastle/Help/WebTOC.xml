@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="2964c17e-2cc2-4f2a-9ff1-36b33215af51" Title="XmlComments" Url="html/3404bb84-745e-6ef3-c149-5cedd360eddb.htm">
+    <HelpTOCNode Id="ed5f6709-c131-4c2f-b061-54daf13f7930" Title="Calculator Class" Url="html/b939e2bb-092e-6f92-d6a2-46969b687067.htm">
+      <HelpTOCNode Title="Calculator Constructor " Url="html/f762f607-147b-4ed8-01a5-79bc5f3aa1fd.htm" />
+      <HelpTOCNode Id="6e7c7154-49c4-416b-a82d-11f86e14f035" Title="Calculator Methods" Url="html/a8f61ce7-32f9-92a3-90f4-ed476a3f66c8.htm">
+        <HelpTOCNode Title="Add Method " Url="html/4f2d4784-597a-0b2e-b181-1e7fdcd7c55b.htm" />
+        <HelpTOCNode Title="Divide Method " Url="html/b9624f6a-e2f9-c9e4-2747-9079f3f85923.htm" />
+        <HelpTOCNode Title="Multiply Method " Url="html/cd00be4c-7098-5b1f-ef59-766d3560bc8f.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/1a00e8c0-2267-5b36-fe71-8b8c31eb0324.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

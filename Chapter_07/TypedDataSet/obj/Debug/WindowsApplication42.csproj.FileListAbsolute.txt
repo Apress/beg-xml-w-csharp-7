@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 07\WindowsApplication42\obj\Debug\WindowsApplication36.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication42\obj\Debug\WindowsApplication36.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication42\bin\Debug\WindowsApplication36.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication42\bin\Debug\WindowsApplication36.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication42\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\WindowsApplication42\obj\Debug\WindowsApplication36.Form1.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication42\obj\Debug\WindowsApplication36.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication42\obj\Debug\WindowsApplication42.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.exe
+C:\Bipin\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.pdb
+C:\Bipin\Code\Chapter 07\TypedDataSet\bin\Debug\WindowsApplication36.exe
+C:\Bipin\Code\Chapter 07\TypedDataSet\bin\Debug\WindowsApplication36.pdb
+C:\Bipin\Code\Chapter 07\TypedDataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.Form1.resources
+C:\Bipin\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication42.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\TypedDataSet\obj\Debug\WindowsApplication36.pdb

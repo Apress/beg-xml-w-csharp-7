@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.Form1.resources
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\Namespaces\bin\Debug\Namespaces.exe
+C:\Bipin\Code\Chapter 13\Namespaces\bin\Debug\Namespaces.pdb
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.exe
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\bin\Debug\Namespaces.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\bin\Debug\Namespaces.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.Cache
+Y:\Chapter_13\Namespaces\bin\Debug\Namespaces.exe
+Y:\Chapter_13\Namespaces\bin\Debug\Namespaces.pdb
+Y:\Chapter_13\Namespaces\obj\Debug\Namespaces.Form1.resources
+Y:\Chapter_13\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+Y:\Chapter_13\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.Cache
+Y:\Chapter_13\Namespaces\obj\Debug\Namespaces.exe
+Y:\Chapter_13\Namespaces\obj\Debug\Namespaces.pdb
+Y:\Chapter_13\Namespaces\bin\Debug\Namespaces.exe.config
+H:\Chapter_13\Namespaces\bin\Debug\Namespaces.exe.config
+H:\Chapter_13\Namespaces\bin\Debug\Namespaces.exe
+H:\Chapter_13\Namespaces\bin\Debug\Namespaces.pdb
+H:\Chapter_13\Namespaces\obj\Debug\Namespaces.Form1.resources
+H:\Chapter_13\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+H:\Chapter_13\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.Cache
+H:\Chapter_13\Namespaces\obj\Debug\Namespaces.exe
+H:\Chapter_13\Namespaces\obj\Debug\Namespaces.pdb
+H:\Chapter_13\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache

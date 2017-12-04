@@ -1,0 +1,6 @@
+C:\Bipin\Code\Chapter 11\ClassLibrary4\bin\Debug\Comments.xml
+C:\Bipin\Code\Chapter 11\ClassLibrary4\bin\Debug\Calculator.dll
+C:\Bipin\Code\Chapter 11\ClassLibrary4\bin\Debug\Calculator.pdb
+C:\Bipin\Code\Chapter 11\ClassLibrary4\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 11\ClassLibrary4\obj\Debug\Calculator.dll
+C:\Bipin\Code\Chapter 11\ClassLibrary4\obj\Debug\Calculator.pdb

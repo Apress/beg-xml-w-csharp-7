@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <employees diffgr:id="employees1" msdata:rowOrder="0" diffgr:hasChanges="modified">
+      <employeeid>1</employeeid>
+      <firstname>Nancy</firstname>
+      <lastname>Davolio</lastname>
+      <homephone>(206) 555-9857</homephone>
+      <notes>Education includes a BA in psychology from Colorado State University in 1970.  She also completed "The Art of the Cold Call."  Nancy is a member of Toastmasters International.</notes>
+    </employees>
+    <employees diffgr:id="employees2" msdata:rowOrder="1" diffgr:hasChanges="modified">
+      <employeeid>2</employeeid>
+      <firstname>Andrew</firstname>
+      <lastname>Fuller</lastname>
+      <homephone>(206) 555-9482</homephone>
+      <notes>Andrew received his BTS commercial in 1974 and a Ph.D. in international marketing from the University of Dallas in 1981.  He is fluent in French and Italian and reads German.  He joined the company as a sales representative, was promoted to sales manager in January 1992 and to vice president of sales in March 1993.  Andrew is a member of the Sales Management Roundtable, the Seattle Chamber of Commerce, and the Pacific Rim Importers Association.</notes>
+    </employees>
+    <employees diffgr:id="employees3" msdata:rowOrder="2" diffgr:hasChanges="modified">
+      <employeeid>3</employeeid>
+      <firstname>Janet</firstname>
+      <lastname>Leverling</lastname>
+      <homephone>(206) 555-3412</homephone>
+      <notes>Janet has a BS degree in chemistry from Boston College (1984).  She has also completed a certificate program in food retailing management.  Janet was hired as a sales associate in 1991 and promoted to sales representative in February 1992.</notes>
+    </employees>
+    <employees diffgr:id="employees4" msdata:rowOrder="3" diffgr:hasChanges="modified">
+      <employeeid>4</employeeid>
+      <firstname>Margaret</firstname>
+      <lastname>Peacock</lastname>
+      <homephone>(206) 555-8122</homephone>
+      <notes>Margaret holds a BA in English literature from Concordia College (1958) and an MA from the American Institute of Culinary Arts (1966).  She was assigned to the London office temporarily from July through November 1992.</notes>
+    </employees>
+    <employees diffgr:id="employees5" msdata:rowOrder="4" diffgr:hasChanges="modified">
+      <employeeid>5</employeeid>
+      <firstname>Steven</firstname>
+      <lastname>Buchanan</lastname>
+      <homephone>(71) 555-4848</homephone>
+      <notes>Steven Buchanan graduated from St. Andrews University, Scotland, with a BSC degree in 1976.  Upon joining the company as a sales representative in 1992, he spent 6 months in an orientation program at the Seattle office and then returned to his permanent post in London.  He was promoted to sales manager in March 1993.  Mr. Buchanan has completed the courses "Successful Telemarketing" and "International Sales Management."  He is fluent in French.</notes>
+    </employees>
+    <employees diffgr:id="employees6" msdata:rowOrder="5" diffgr:hasChanges="modified">
+      <employeeid>6</employeeid>
+      <firstname>Michael</firstname>
+      <lastname>Suyama</lastname>
+      <homephone>(71) 555-7773</homephone>
+      <notes>Michael is a graduate of Sussex University (MA, economics, 1983) and the University of California at Los Angeles (MBA, marketing, 1986).  He has also taken the courses "Multi-Cultural Selling" and "Time Management for the Sales Professional."  He is fluent in Japanese and can read and write French, Portuguese, and Spanish.</notes>
+    </employees>
+    <employees diffgr:id="employees7" msdata:rowOrder="6" diffgr:hasChanges="modified">
+      <employeeid>7</employeeid>
+      <firstname>Robert</firstname>
+      <lastname>King</lastname>
+      <homephone>(71) 555-5598</homephone>
+      <notes>Robert King served in the Peace Corps and traveled extensively before completing his degree in English at the University of Michigan in 1992, the year he joined the company.  After completing a course entitled "Selling in Europe," he was transferred to the London office in March 1993.</notes>
+    </employees>
+    <employees diffgr:id="employees8" msdata:rowOrder="7" diffgr:hasChanges="modified">
+      <employeeid>8</employeeid>
+      <firstname>Laura</firstname>
+      <lastname>Callahan</lastname>
+      <homephone>(206) 555-1189</homephone>
+      <notes>Laura received a BA in psychology from the University of Washington.  She has also completed a course in business French.  She reads and writes French.</notes>
+    </employees>
+    <employees diffgr:id="employees9" msdata:rowOrder="8" diffgr:hasChanges="modified">
+      <employeeid>9</employeeid>
+      <firstname>Anne</firstname>
+      <lastname>Dodsworth</lastname>
+      <homephone>(71) 555-4444</homephone>
+      <notes>Anne has a BA degree in English from St. Lawrence College.  She is fluent in French and German.</notes>
+    </employees>
+  </NewDataSet>
+  <diffgr:before>
+    <employees diffgr:id="employees1" msdata:rowOrder="0">
+      <employeeid>1</employeeid>
+      <firstname>Nancy</firstname>
+      <lastname>Davolio</lastname>
+      <homephone>(206) 555-9857</homephone>
+      <notes>Education includes a BA in psychology from Colorado State University in 1970.  She also completed "The Art of the Cold Call."  Nancy is a member of Toastmasters International.</notes>
+    </employees>
+    <employees diffgr:id="employees2" msdata:rowOrder="1">
+      <employeeid>2</employeeid>
+      <firstname>Andrew</firstname>
+      <lastname>Fuller</lastname>
+      <homephone>(206) 555-9482</homephone>
+      <notes>Andrew received his BTS commercial in 1974 and a Ph.D. in international marketing from the University of Dallas in 1981.  He is fluent in French and Italian and reads German.  He joined the company as a sales representative, was promoted to sales manager in January 1992 and to vice president of sales in March 1993.  Andrew is a member of the Sales Management Roundtable, the Seattle Chamber of Commerce, and the Pacific Rim Importers Association.</notes>
+    </employees>
+    <employees diffgr:id="employees3" msdata:rowOrder="2">
+      <employeeid>3</employeeid>
+      <firstname>Janet</firstname>
+      <lastname>Leverling</lastname>
+      <homephone>(206) 555-3412</homephone>
+      <notes>Janet has a BS degree in chemistry from Boston College (1984).  She has also completed a certificate program in food retailing management.  Janet was hired as a sales associate in 1991 and promoted to sales representative in February 1992.</notes>
+    </employees>
+    <employees diffgr:id="employees4" msdata:rowOrder="3">
+      <employeeid>4</employeeid>
+      <firstname>Margaret</firstname>
+      <lastname>Peacock</lastname>
+      <homephone>(206) 555-8122</homephone>
+      <notes>Margaret holds a BA in English literature from Concordia College (1958) and an MA from the American Institute of Culinary Arts (1966).  She was assigned to the London office temporarily from July through November 1992.</notes>
+    </employees>
+    <employees diffgr:id="employees5" msdata:rowOrder="4">
+      <employeeid>5</employeeid>
+      <firstname>Steven</firstname>
+      <lastname>Buchanan</lastname>
+      <homephone>(71) 555-4848</homephone>
+      <notes>Steven Buchanan graduated from St. Andrews University, Scotland, with a BSC degree in 1976.  Upon joining the company as a sales representative in 1992, he spent 6 months in an orientation program at the Seattle office and then returned to his permanent post in London.  He was promoted to sales manager in March 1993.  Mr. Buchanan has completed the courses "Successful Telemarketing" and "International Sales Management."  He is fluent in French.</notes>
+    </employees>
+    <employees diffgr:id="employees6" msdata:rowOrder="5">
+      <employeeid>6</employeeid>
+      <firstname>Michael</firstname>
+      <lastname>Suyama</lastname>
+      <homephone>(71) 555-7773</homephone>
+      <notes>Michael is a graduate of Sussex University (MA, economics, 1983) and the University of California at Los Angeles (MBA, marketing, 1986).  He has also taken the courses "Multi-Cultural Selling" and "Time Management for the Sales Professional."  He is fluent in Japanese and can read and write French, Portuguese, and Spanish.</notes>
+    </employees>
+    <employees diffgr:id="employees7" msdata:rowOrder="6">
+      <employeeid>7</employeeid>
+      <firstname>Robert</firstname>
+      <lastname>King</lastname>
+      <homephone>(71) 555-5598</homephone>
+      <notes>Robert King served in the Peace Corps and traveled extensively before completing his degree in English at the University of Michigan in 1992, the year he joined the company.  After completing a course entitled "Selling in Europe," he was transferred to the London office in March 1993.</notes>
+    </employees>
+    <employees diffgr:id="employees8" msdata:rowOrder="7">
+      <employeeid>8</employeeid>
+      <firstname>Laura</firstname>
+      <lastname>Callahan</lastname>
+      <homephone>(206) 555-1189</homephone>
+      <notes>Laura received a BA in psychology from the University of Washington.  She has also completed a course in business French.  She reads and writes French.</notes>
+    </employees>
+    <employees diffgr:id="employees9" msdata:rowOrder="8">
+      <employeeid>9</employeeid>
+      <firstname>Anne</firstname>
+      <lastname>Dodsworth</lastname>
+      <homephone>(71) 555-4444</homephone>
+      <notes>Anne has a BA degree in English from St. Lawrence College.  She is fluent in French and German.</notes>
+    </employees>
+  </diffgr:before>
+</diffgr:diffgram>

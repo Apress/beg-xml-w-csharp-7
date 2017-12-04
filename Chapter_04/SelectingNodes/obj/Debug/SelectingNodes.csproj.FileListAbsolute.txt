@@ -1,0 +1,24 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\bin\Debug\WindowsApplication23.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\bin\Debug\WindowsApplication23.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\SelectingNodes.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 04\SelectingNodes\obj\Debug\WindowsApplication23.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\bin\Debug\WindowsApplication23.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\bin\Debug\WindowsApplication23.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\bin\Debug\WindowsApplication23.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_04\SelectingNodes\obj\Debug\SelectingNodes.csproj.GenerateResource.Cache
+H:\Chapter_04\SelectingNodes\bin\Debug\WindowsApplication23.exe.config
+H:\Chapter_04\SelectingNodes\bin\Debug\WindowsApplication23.exe
+H:\Chapter_04\SelectingNodes\bin\Debug\WindowsApplication23.pdb
+H:\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.Form1.resources
+H:\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.Properties.Resources.resources
+H:\Chapter_04\SelectingNodes\obj\Debug\SelectingNodes.csproj.GenerateResource.Cache
+H:\Chapter_04\SelectingNodes\obj\Debug\SelectingNodes.csproj.CoreCompileInputs.cache
+H:\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.exe
+H:\Chapter_04\SelectingNodes\obj\Debug\WindowsApplication23.pdb

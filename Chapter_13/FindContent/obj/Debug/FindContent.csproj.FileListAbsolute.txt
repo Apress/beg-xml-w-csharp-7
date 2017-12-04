@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\FindContent\bin\Debug\FindContent.exe
+C:\Bipin\Code\Chapter 13\FindContent\bin\Debug\FindContent.pdb
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.Form1.resources
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.exe
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\obj\Debug\FindContent.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\obj\Debug\FindContent.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\bin\Debug\FindContent.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\bin\Debug\FindContent.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\obj\Debug\FindContent.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\obj\Debug\FindContent.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\FindContent\obj\Debug\FindContent.csproj.GenerateResource.Cache
+Y:\Chapter_13\FindContent\bin\Debug\FindContent.exe
+Y:\Chapter_13\FindContent\bin\Debug\FindContent.pdb
+Y:\Chapter_13\FindContent\obj\Debug\FindContent.Form1.resources
+Y:\Chapter_13\FindContent\obj\Debug\FindContent.Properties.Resources.resources
+Y:\Chapter_13\FindContent\obj\Debug\FindContent.csproj.GenerateResource.Cache
+Y:\Chapter_13\FindContent\obj\Debug\FindContent.exe
+Y:\Chapter_13\FindContent\obj\Debug\FindContent.pdb
+Y:\Chapter_13\FindContent\bin\Debug\FindContent.exe.config
+H:\Chapter_13\FindContent\bin\Debug\FindContent.exe.config
+H:\Chapter_13\FindContent\bin\Debug\FindContent.exe
+H:\Chapter_13\FindContent\bin\Debug\FindContent.pdb
+H:\Chapter_13\FindContent\obj\Debug\FindContent.Form1.resources
+H:\Chapter_13\FindContent\obj\Debug\FindContent.Properties.Resources.resources
+H:\Chapter_13\FindContent\obj\Debug\FindContent.csproj.GenerateResource.Cache
+H:\Chapter_13\FindContent\obj\Debug\FindContent.exe
+H:\Chapter_13\FindContent\obj\Debug\FindContent.pdb
+H:\Chapter_13\FindContent\obj\Debug\FindContent.csproj.CoreCompileInputs.cache

@@ -1,0 +1,34 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\bin\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\bin\Debug\WindowsApplication45.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\SOAPSerialization.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\SOAPSerialization\obj\Debug\WindowsApplication45.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\obj\Debug\SOAPSerialization.csproj.GenerateResource.Cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_08\SOAPSerialization\obj\Debug\SOAPSerialization.csprojResolveAssemblyReference.cache
+Y:\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.exe.config
+Y:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.exe
+Y:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.pdb
+Y:\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.exe
+Y:\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.pdb
+Y:\Chapter_08\SOAPSerialization\obj\Debug\SOAPSerialization.csprojResolveAssemblyReference.cache
+Y:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.Form1.resources
+Y:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+Y:\Chapter_08\SOAPSerialization\obj\Debug\SOAPSerialization.csproj.GenerateResource.Cache
+H:\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.exe.config
+H:\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.exe
+H:\Chapter_08\SOAPSerialization\bin\Debug\WindowsApplication45.pdb
+H:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.Form1.resources
+H:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+H:\Chapter_08\SOAPSerialization\obj\Debug\SOAPSerialization.csproj.GenerateResource.Cache
+H:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.exe
+H:\Chapter_08\SOAPSerialization\obj\Debug\WindowsApplication45.pdb
+H:\Chapter_08\SOAPSerialization\obj\Debug\SOAPSerialization.csproj.CoreCompileInputs.cache

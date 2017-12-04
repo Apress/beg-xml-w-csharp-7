@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 08\WindowsApplication45\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication45\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication45\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication45\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication45\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\WindowsApplication45\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication45\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication45\obj\Debug\WindowsApplication45.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\XmlSerialization\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\XmlSerialization\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\XmlSerialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 08\XmlSerialization\obj\Debug\WindowsApplication45.pdb

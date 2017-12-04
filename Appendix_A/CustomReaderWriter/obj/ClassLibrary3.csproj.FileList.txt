@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\CustomReaderWriter.dll
+bin\Debug\CustomReaderWriter.pdb
+obj\Debug\CustomReaderWriter.dll
+obj\Debug\CustomReaderWriter.pdb

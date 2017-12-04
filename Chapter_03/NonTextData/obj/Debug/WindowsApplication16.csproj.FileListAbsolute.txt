@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 03\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+C:\Bipin\Code\Chapter 03\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+C:\Bipin\Code\Chapter 03\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+C:\Bipin\Code\Chapter 03\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+C:\Bipin\Code\Chapter 03\WindowsApplication16\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 03\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+C:\Bipin\Code\Chapter 03\WindowsApplication16\obj\Debug\WindowsApplication16.Properties.Resources.resources
+C:\Bipin\Code\Chapter 03\WindowsApplication16\obj\Debug\WindowsApplication16.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.exe
+C:\Bipin\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.pdb
+C:\Bipin\Code\Chapter 03\NonTextData\bin\Debug\WindowsApplication16.exe
+C:\Bipin\Code\Chapter 03\NonTextData\bin\Debug\WindowsApplication16.pdb
+C:\Bipin\Code\Chapter 03\NonTextData\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.Form1.resources
+C:\Bipin\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.Properties.Resources.resources
+C:\Bipin\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 03\NonTextData\obj\Debug\WindowsApplication16.pdb

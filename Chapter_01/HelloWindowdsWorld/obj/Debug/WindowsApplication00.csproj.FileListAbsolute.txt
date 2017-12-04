@@ -1,0 +1,10 @@
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.exe
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.pdb
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\HelloWindowsWorld.Form1.resources
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.Properties.Resources.resources
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\obj\Debug\WindowsApplication00.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\bin\Debug\WindowsApplication00.exe
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\bin\Debug\WindowsApplication00.pdb
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\bin\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\WindowsApplication00\WindowsApplication00\bin\Debug\ClassLibrary0.pdb

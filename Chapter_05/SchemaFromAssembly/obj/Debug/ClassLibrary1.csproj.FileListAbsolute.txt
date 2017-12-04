@@ -1,0 +1,5 @@
+C:\Bipin\Code\Chapter 05\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Bipin\Code\Chapter 05\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Bipin\Code\Chapter 05\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 05\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Bipin\Code\Chapter 05\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\WhiteSpaces\bin\Debug\WhiteSpaces.exe
+C:\Bipin\Code\Chapter 13\WhiteSpaces\bin\Debug\WhiteSpaces.pdb
+C:\Bipin\Code\Chapter 13\WhiteSpaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.Form1.resources
+C:\Bipin\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.exe
+C:\Bipin\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\bin\Debug\WhiteSpaces.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\bin\Debug\WhiteSpaces.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+Y:\Chapter_13\WhiteSpaces\bin\Debug\WhiteSpaces.exe
+Y:\Chapter_13\WhiteSpaces\bin\Debug\WhiteSpaces.pdb
+Y:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.Form1.resources
+Y:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.Properties.Resources.resources
+Y:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+Y:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.exe
+Y:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.pdb
+Y:\Chapter_13\WhiteSpaces\bin\Debug\WhiteSpaces.exe.config
+H:\Chapter_13\WhiteSpaces\bin\Debug\WhiteSpaces.exe.config
+H:\Chapter_13\WhiteSpaces\bin\Debug\WhiteSpaces.exe
+H:\Chapter_13\WhiteSpaces\bin\Debug\WhiteSpaces.pdb
+H:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.Form1.resources
+H:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.Properties.Resources.resources
+H:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.GenerateResource.Cache
+H:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.exe
+H:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.pdb
+H:\Chapter_13\WhiteSpaces\obj\Debug\WhiteSpaces.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 07\WindowsApplication39\obj\Debug\WindowsApplication39.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication39\obj\Debug\WindowsApplication39.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication39\bin\Debug\WindowsApplication39.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication39\bin\Debug\WindowsApplication39.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication39\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\WindowsApplication39\obj\Debug\WindowsApplication39.Form1.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication39\obj\Debug\WindowsApplication39.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication39\obj\Debug\WindowsApplication39.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.exe
+C:\Bipin\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.pdb
+C:\Bipin\Code\Chapter 07\ReadXml\bin\Debug\WindowsApplication39.exe
+C:\Bipin\Code\Chapter 07\ReadXml\bin\Debug\WindowsApplication39.pdb
+C:\Bipin\Code\Chapter 07\ReadXml\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.Form1.resources
+C:\Bipin\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\ReadXml\obj\Debug\WindowsApplication39.pdb

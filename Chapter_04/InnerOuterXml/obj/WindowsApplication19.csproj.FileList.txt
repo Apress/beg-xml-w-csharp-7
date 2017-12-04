@@ -1,0 +1,8 @@
+bin\Debug\WindowsApplication19.exe
+bin\Debug\WindowsApplication19.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication19.Form1.resources
+obj\Debug\WindowsApplication19.Properties.Resources.resources
+obj\Debug\WindowsApplication19.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication19.exe
+obj\Debug\WindowsApplication19.pdb

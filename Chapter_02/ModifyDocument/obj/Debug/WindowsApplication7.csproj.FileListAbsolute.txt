@@ -1,0 +1,26 @@
+C:\Bipin\Code\Chapter 02\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication7\obj\Debug\WindowsApplication7.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\WindowsApplication7\obj\Debug\WindowsApplication7.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\ModifyDocument\bin\Debug\WindowsApplication7.exe
+C:\Bipin\Code\Chapter 02\ModifyDocument\bin\Debug\WindowsApplication7.pdb
+C:\Bipin\Code\Chapter 02\ModifyDocument\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.Form1.resources
+C:\Bipin\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.Properties.Resources.resources
+C:\Bipin\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.csproj.GenerateResource.Cache
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.exe
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.pdb
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\bin\Debug\WindowsApplication7.exe
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\bin\Debug\WindowsApplication7.pdb
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\obj\Debug\ResolveAssemblyReference.cache
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.Form1.resources
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.Properties.Resources.resources
+D:\Bipin\Authoring\My Books\Pro XML 3.5\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\ModifyDocument\obj\Debug\WindowsApplication7.pdb

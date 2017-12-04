@@ -1,0 +1,24 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\bin\Debug\WindowsApplication5.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\bin\Debug\WindowsApplication5.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\obj\Debug\WindowsApplication5.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\obj\Debug\WindowsApplication5.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\obj\Debug\SelectNodes.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\obj\Debug\WindowsApplication5.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 02\SelectNodes\obj\Debug\WindowsApplication5.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\bin\Debug\WindowsApplication5.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\bin\Debug\WindowsApplication5.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\bin\Debug\WindowsApplication5.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_02\SelectNodes\obj\Debug\SelectNodes.csproj.GenerateResource.Cache
+H:\Chapter_02\SelectNodes\bin\Debug\WindowsApplication5.exe.config
+H:\Chapter_02\SelectNodes\bin\Debug\WindowsApplication5.exe
+H:\Chapter_02\SelectNodes\bin\Debug\WindowsApplication5.pdb
+H:\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.Form1.resources
+H:\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.Properties.Resources.resources
+H:\Chapter_02\SelectNodes\obj\Debug\SelectNodes.csproj.GenerateResource.Cache
+H:\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.exe
+H:\Chapter_02\SelectNodes\obj\Debug\WindowsApplication5.pdb
+H:\Chapter_02\SelectNodes\obj\Debug\SelectNodes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Bipin\Code\Appendix A\WindowsApplication66\obj\Debug\WindowsApplication66.exe
+C:\Bipin\Code\Appendix A\WindowsApplication66\obj\Debug\WindowsApplication66.pdb
+C:\Bipin\Code\Appendix A\WindowsApplication66\bin\Debug\WindowsApplication66.exe
+C:\Bipin\Code\Appendix A\WindowsApplication66\bin\Debug\WindowsApplication66.pdb
+C:\Bipin\Code\Appendix A\WindowsApplication66\bin\Debug\CustomReaderWriter.dll
+C:\Bipin\Code\Appendix A\WindowsApplication66\bin\Debug\CustomReaderWriter.pdb
+C:\Bipin\Code\Appendix A\WindowsApplication66\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Appendix A\WindowsApplication66\obj\Debug\WindowsApplication66.Form1.resources
+C:\Bipin\Code\Appendix A\WindowsApplication66\obj\Debug\WindowsApplication66.Properties.Resources.resources
+C:\Bipin\Code\Appendix A\WindowsApplication66\obj\Debug\WindowsApplication66.csproj.GenerateResource.Cache
+C:\Bipin\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.exe
+C:\Bipin\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Appendix A\CustomReaderClient\obj\Debug\WindowsApplication66.pdb

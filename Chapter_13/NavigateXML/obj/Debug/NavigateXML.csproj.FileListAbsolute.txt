@@ -1,0 +1,32 @@
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.Form1.resources
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\NavigateXML\bin\Debug\NavigateXML.exe
+C:\Bipin\Code\Chapter 13\NavigateXML\bin\Debug\NavigateXML.pdb
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.exe
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\bin\Debug\NavigateXML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\bin\Debug\NavigateXML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\NavigateXML\bin\Debug\NavigateXML.exe
+Y:\Chapter_13\NavigateXML\bin\Debug\NavigateXML.pdb
+Y:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.Form1.resources
+Y:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.Properties.Resources.resources
+Y:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.csproj.GenerateResource.Cache
+Y:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.exe
+Y:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.pdb
+Y:\Chapter_13\NavigateXML\bin\Debug\NavigateXML.exe.config
+H:\Chapter_13\NavigateXML\bin\Debug\NavigateXML.exe.config
+H:\Chapter_13\NavigateXML\bin\Debug\NavigateXML.exe
+H:\Chapter_13\NavigateXML\bin\Debug\NavigateXML.pdb
+H:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.Form1.resources
+H:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.Properties.Resources.resources
+H:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.csproj.GenerateResource.Cache
+H:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.exe
+H:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.pdb
+H:\Chapter_13\NavigateXML\obj\Debug\NavigateXML.csproj.CoreCompileInputs.cache

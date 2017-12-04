@@ -1,0 +1,18 @@
+C:\Bipin\Code\Chapter 07\WindowsApplication35\obj\Debug\WindowsApplication35.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication35\obj\Debug\WindowsApplication35.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication35\bin\Debug\WindowsApplication35.exe
+C:\Bipin\Code\Chapter 07\WindowsApplication35\bin\Debug\WindowsApplication35.pdb
+C:\Bipin\Code\Chapter 07\WindowsApplication35\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\WindowsApplication35\obj\Debug\WindowsApplication35.Form1.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication35\obj\Debug\WindowsApplication35.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\WindowsApplication35\obj\Debug\WindowsApplication35.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.exe
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.pdb
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\bin\Debug\WindowsApplication35.exe
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\bin\Debug\WindowsApplication35.pdb
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.Form1.resources
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.Properties.Resources.resources
+C:\Bipin\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 07\ExecuteXmlReader\obj\Debug\WindowsApplication35.pdb

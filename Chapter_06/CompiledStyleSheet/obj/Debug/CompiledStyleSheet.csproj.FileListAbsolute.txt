@@ -1,0 +1,30 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\bin\Debug\WindowsApplication31.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\bin\Debug\WindowsApplication31.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\bin\Debug\EmployeeStyles.dll
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Form1.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Properties.Resources.resources
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csproj.GenerateResource.Cache
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 06\CompiledStyleSheet\obj\Debug\WindowsApplication31.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\bin\Debug\WindowsApplication31.exe.config
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\bin\Debug\WindowsApplication31.exe
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\bin\Debug\WindowsApplication31.pdb
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\bin\Debug\EmployeeStyles.dll
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csprojResolveAssemblyReference.cache
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Form1.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Properties.Resources.resources
+Z:\Authoring\Books\XML_CS_6\Code\Chapter_06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csproj.GenerateResource.Cache
+H:\Chapter_06\CompiledStyleSheet\bin\Debug\WindowsApplication31.exe.config
+H:\Chapter_06\CompiledStyleSheet\bin\Debug\WindowsApplication31.exe
+H:\Chapter_06\CompiledStyleSheet\bin\Debug\WindowsApplication31.pdb
+H:\Chapter_06\CompiledStyleSheet\bin\Debug\EmployeeStyles.dll
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csprojResolveAssemblyReference.cache
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Form1.resources
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.Properties.Resources.resources
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csproj.GenerateResource.Cache
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.exe
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\WindowsApplication31.pdb
+H:\Chapter_06\CompiledStyleSheet\obj\Debug\CompiledStyleSheet.csproj.CoreCompileInputs.cache
